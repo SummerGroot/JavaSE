@@ -6,7 +6,7 @@ package com.basic.www.conpter04;
  * @description:
  * @date: 2023-01-19 22:27
  */
-public class TwoDimensionalArray05 {
+public class TwoDimensionalArray04 {
     public static void main(String[] args) {
         //int arr[][]={{4,6},{1,4,5,7},{-2}};
         // 遍历该二维数组，并得到和
