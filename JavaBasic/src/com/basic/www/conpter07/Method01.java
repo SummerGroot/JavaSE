@@ -16,6 +16,7 @@ public class Method01 {
         Person p1 = new Person();
         p1.speak();//调用方法
         p1.cal01();
+        p1.cal02(100);
     }
 }
 
@@ -45,8 +46,12 @@ class Person {
     }
 
     //添加cal02成员方法，该方法可以接收一个数n，计算从1+...+n的结果
-    public void cal02() {
-
+    public void cal02(int n) {
+            int sum=0;
+            for (int i = 1; i <= n; i++) {
+                sum+=n;
+            }
+        System.out.println("计算结果为：" + sum);
     }
 
     //添加getSum成员方法，可以计算两个数的和
