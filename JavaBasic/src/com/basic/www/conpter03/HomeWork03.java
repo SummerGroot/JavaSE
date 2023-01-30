@@ -1,32 +1,23 @@
 package com.basic.www.conpter03;
-import java.util.Scanner;
+
 /**
  * @version: java version 1.8
- * @Author: Summer Johnny
+ * @Author: Summer
  * @description:
- * @date: 2022-12-16 10:37
+ * @date: 2022-11-23 17:37
  */
 public class HomeWork03 {
     public static void main(String[] args) {
-        //水仙花数
-        //判断一个整数是否是水仙花数，所谓水仙花数是指一个3位数，
-        //其各个位上数字立方和等于其本身。
-        //例如：153=1*1*1+3*3*3+5*5*5
-        /*
-        * 分析
-        * 分别得到百位，十位，个位
-        * 百位：i/100
-        * 十位：i%100/10
-        * 个位：i%10*/
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("请输入一个三位数：");
-        int i = scanner.nextInt();
-        if(i==(i/100)*(i/100)*(i/100)+
-                (i%100/10)*(i%100/10)*(i%100/10)+
-                (i%10)*(i%10)*(i%10)){
-            System.out.println(i+"该数是水仙花数");
-        }else {
-            System.out.println(i+"该数不是水仙花数");
-        }
+        //编程，保存两本书名，用+拼接，看效果。保存两个性别，用+拼接，看效果。
+        String book01 = "天龙八部";
+        String book02 = "笑傲江湖";
+        System.out.println(book01+book02);//天龙八部笑傲江湖
+        char sex01='男';
+        char sex02='女';
+        System.out.println(sex01+sex02);//52906 男 字符码值+女 字符码值
+        //保存两本书加个
+        double price01 = 123.56;
+        double price02 = 100.3;
+        System.out.println(price01+price02);//223.86
     }
 }

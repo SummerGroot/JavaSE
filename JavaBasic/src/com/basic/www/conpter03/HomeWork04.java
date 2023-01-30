@@ -1,32 +1,31 @@
 package com.basic.www.conpter03;
 
-import java.util.zip.CheckedOutputStream;
-
 /**
  * @version: java version 1.8
- * @Author: Summer Johnny
+ * @Author: Summer
  * @description:
- * @date: 2022-12-18 22:43
+ * @date: 2022-11-23 17:37
  */
 public class HomeWork04 {
     public static void main(String[] args) {
-        //5、输出1-100之间的不能被5整除的数，每5个一行
+        //4、编程实现如下效果
+        //姓名    年龄  成绩  性别  爱好
         /*
-         * 思路分析：
-         * 1、先输出1-100的所有数
-         * 2、然后过滤输出，不能被5整除的数 i%5!=0
-         * 3、每5个一行，使用 int count 统计输出的个数 当count%5=0
-         * 就说明输出了5个，这时，我们输出一个换行即可控制*/
-        int count = 0;//统计输出的个数
-        for (int i = 1; i <= 100; i++) {
-            if (i % 5 != 0) {
-                count++;
-                System.out.print(i + "\t");
-                //判断，每满5个，就输出一个换行符
-                if (count % 5 == 0) {
-                    System.out.println();
-                }
-            }
-        }
+        要求：
+        1、用变量将姓名、年龄、成绩、性别、爱好存储
+        2、使用+
+        3、添加适当的注释
+        4、添加转义字符，使用一条语句输出
+        */
+        String name = "范夏源";
+        byte age = 24;
+        double score = 98.9;
+        char gender = '男';
+        String like = "篮球";
+        System.out.println("姓名：" + name + "\n" +
+                "年龄：" + age + "\n" +
+                "成绩：" + score + "\n" +
+                "性别：" + gender + "\n" +
+                 "爱好：" + like + "\n");
     }
 }

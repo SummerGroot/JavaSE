@@ -1,6 +1,4 @@
 
-S
-#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 T
 $.idea/codeStyles/codeStyleConfig.xml,d\d\dd7b3350c29c49497756c7f32c69a3bed18b1cba
 ?
@@ -32,14 +30,6 @@ i
 c
 3JavaBasic/src/com/basic/www/conpter03/Return01.java,4\8\4856dc474cfb942505cba3a384a1aaabe433d6c4
 e
-5JavaBasic/src/com/basic/www/conpter03/HomeWork01.java,e\0\e0e33e958b871b735072880ad610e29fd71a46b6
-e
-5JavaBasic/src/com/basic/www/conpter03/HomeWork02.java,1\1\11e9ac1a7c176c8f62d209c9b650b2d940edc580
-e
-5JavaBasic/src/com/basic/www/conpter03/HomeWork03.java,3\1\310703eac097de0cf89cd9c3ba121011ed642c99
-e
-5JavaBasic/src/com/basic/www/conpter03/HomeWork04.java,3\c\3cced7b7d3cc6a65b3d9167fcecb73f9f37ce5e5
-e
 5JavaBasic/src/com/basic/www/conpter03/HomeWork05.java,3\3\3371ce0d5bb5711a30a8c1f6ea355dd66851ccaa
 e
 5JavaBasic/src/com/basic/www/conpter03/HomeWork06.java,2\d\2d65b3ac4fb01ecbca8fc5ffdb5776af4ec08c3f
@@ -61,8 +51,6 @@ j
 :JavaBasic/src/com/basic/www/conpter04/ArrayExercise02.java,9\b\9b4d7df4438645781c8478379e15d5028a0d56c4
 j
 :JavaBasic/src/com/basic/www/conpter04/ArrayExercise03.java,e\f\ef37ac440a3ad833e20e050b65ff08edd2c8ed7d
-f
-6JavaBasic/src/com/basic/www/conpter04/ArrayAssign.java,5\c\5cc7fe5e3d473ef140418cf2a4f009f29638f30f
 d
 4JavaBasic/src/com/basic/www/conpter04/ArrayCopy.java,a\b\aba222c2aad68ad05a84efe9a4e1a69470efa19b
 i
@@ -79,3 +67,11 @@ d
 4JavaBasic/src/com/basic/www/conpter04/SeqSearch.java,4\d\4df7068096e9f9acb0b914e464567b5f6f6ed2b7
 f
 6JavaBasic/src/com/basic/www/conpter04/ArrayReduce.java,6\0\60942cf209a8f4533d859da9cab9dd4b6c883d52
+p
+@JavaBasic/src/com/basic/www/conpter04/TwoDimensionalArray01.java,9\8\988646e2c5224f7fe3f68491400eab4d08455873
+p
+@JavaBasic/src/com/basic/www/conpter04/TwoDimensionalArray02.java,3\3\33ec4a350f3be07dbe8e5cf7aa7bd74ff059158d
+p
+@JavaBasic/src/com/basic/www/conpter04/TwoDimensionalArray03.java,9\e\9eb14498fab15ef2fe16750ce5a4c73de6b9445f
+p
+@JavaBasic/src/com/basic/www/conpter04/TwoDimensionalArray04.java,4\f\4f6260ff18ad0730cf325d14def81a07127c182c
