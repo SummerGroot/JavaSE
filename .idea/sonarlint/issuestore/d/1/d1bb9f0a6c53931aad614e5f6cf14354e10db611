@@ -1,7 +1,0 @@
-
-N	java:S106""9Replace this use of System.out or System.err by a logger.(ùÑ‹­
-N	java:S106)"9Replace this use of System.out or System.err by a logger.(ÄÜ¬
-S	java:S106+"9Replace this use of System.out or System.err by a logger.(ôÂ¾îıÿÿÿÿ
-N	java:S106/"9Replace this use of System.out or System.err by a logger.(…€µ°
-T
-java:S1128">Remove this unused import 'java.util.zip.CheckedOutputStream'.(Êóàû
