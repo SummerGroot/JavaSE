@@ -1,15 +1,0 @@
-
-W
-java:S2184"BCast one of the operands of this division operation to a "double".(ô…½
-N	java:S106"9Replace this use of System.out or System.err by a logger.(…ÃŒµ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¥ÁÃ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ò½Áıÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ôÆõÍúÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(”£÷ûúÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÃÿûùÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.( ‘áş
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ç ÛÎıÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(™²“õ
-V	java:S125"<This block of commented-out lines of code should be removed.(ÿæ†Úüÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ğö¶üÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(·®Ö
