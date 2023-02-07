@@ -9,7 +9,14 @@ package com.basic.www.conpter07;
 public class This01 {
     public static void main(String[] args) {
         Dog01 dog01 = new Dog01("火锅", 2);
+        System.out.println("dog01的hashcode为：" + dog01.hashCode());
+        //dog01的hashcode为：460141958
+        //dog01调用了info（）方法
         dog01.info();
+        //Dog01 dog02 = new Dog01("大黄", 3);
+        //System.out.println("dog02的hashcode为：" + dog02.hashCode());
+        //dog02的hashcode为：1163157884
+        //dog02.info();
 
     }
 }
@@ -37,9 +44,11 @@ class Dog01 { //类
         this.name = name;
         //this.age 就是当前对象的属性age
         this.age = age;
+        System.out.println("this.hashCode()" + this.hashCode());
     }
 
     public void info() {//成员方法，输出属性信息
+        System.out.println("this的hashCode="+this.hashCode());
         System.out.println(name + "\t" + age + "\t");
     }
 }
