@@ -21,7 +21,7 @@ class PersonConstructor01 {
     String name;
     int age;
 
-    //构造器
+    //构造器-alt+insert
     public PersonConstructor01(String pName, int pAge) {
         System.out.println("构造器被调用，完成对象属性的初始化！！");
         name = pName;
