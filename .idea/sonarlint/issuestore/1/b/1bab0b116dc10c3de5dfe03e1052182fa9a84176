@@ -1,0 +1,14 @@
+
+a
+java:S1301,"KReplace this "switch" statement by "if" statements to increase readability.(”ŞÉ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ËáŒ©ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÈâŒõşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÈâŒõşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÈâŒõşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÈâŒõşÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÈâŒõşÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(¿áºÀ
+f	java:S128-"LEnd this switch case with an unconditional break, return or throw statement.(£Ş¾Ëşÿÿÿÿ
+7	java:S131,""Add a default case to this switch.(”ŞÉ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(ş®õ´
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(éÕ²Ş

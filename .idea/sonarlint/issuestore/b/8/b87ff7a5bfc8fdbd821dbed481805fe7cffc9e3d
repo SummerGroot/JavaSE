@@ -1,0 +1,13 @@
+
+U
+java:S1854"8Remove this useless assignment to local variable "str1".(§¼’“8ÃÃ†Éã0
+X
+java:S1854"6Remove this useless assignment to local variable "in".(¢½áêıÿÿÿÿ8åÊ”Éã0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(çÁıáüÿÿÿÿ
+I
+java:S1481"'Remove this unused "in" local variable.(¢½áêıÿÿÿÿ8çÊ”Éã0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(âğ¿Øüÿÿÿÿ
+<
+java:S2129"!Remove this "Integer" constructor(£ùìÍşÿÿÿÿ
+F
+java:S1481")Remove this unused "str1" local variable.(§¼’“8ÅÃ†Éã0

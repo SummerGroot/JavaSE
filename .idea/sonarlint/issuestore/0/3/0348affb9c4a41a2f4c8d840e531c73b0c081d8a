@@ -1,0 +1,11 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿßÍÇ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æµ˜Ç
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³¤žÜÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(žâ®°üÿÿÿÿ
+A
+java:S2387#"+"name" is the name of a field in "GrandPa".(§Ð”
+@
+java:S2387$"*"age" is the name of a field in "GrandPa".(¨ø½Þ
+@
+java:S2387+"*"name" is the name of a field in "Father".(ÍÖôÙ

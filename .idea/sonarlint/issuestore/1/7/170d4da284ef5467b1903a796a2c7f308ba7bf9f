@@ -1,0 +1,49 @@
+
+d
+java:S1104"NMake n1 a static final constant or non-public and provide accessors if needed.(†ÄÎš
+i
+java:S11049"NMake n1 a static final constant or non-public and provide accessors if needed.(¿³«úÿÿÿÿ
+p
+java:S1104n"NMake n1 a static final constant or non-public and provide accessors if needed.(É¬¹¯şÿÿÿÿ8¾½Ôã0
+e
+java:S1104o"OMake age a static final constant or non-public and provide accessors if needed.(ŸœªÊ
+b	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•­ä²
+]	java:S125"<This block of commented-out lines of code should be removed.(õ£Şıÿÿÿÿ8şÌã0
+<
+java:S2387"&"n1" is the name of a field in "Base".(†ÄÎš
+—
+java:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Âóš
+œ
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„§ôúÿÿÿÿ
+œ
+java:S1186*"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ÉœĞıÿÿÿÿ
+—
+java:S1186-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õğ·Ô
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÕÃÊØ
+œ
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İ¨…Üşÿÿÿÿ
+U
+java:S11610":Add the "@Override" annotation above this method signature(½ªˆ•ùÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ù£èşÿÿÿÿ
+E
+java:S23879"#"n1" is the name of a field in "A".(¿³«úÿÿÿÿ8Ä½Ôã0
+N	java:S106="9Replace this use of System.out or System.err by a logger.(Á¬É¶
+Q	java:S125E"<This block of commented-out lines of code should be removed.(ú’ôÇ
+Q	java:S125J"<This block of commented-out lines of code should be removed.(‰†ã»
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(”ÿ¿üÿÿÿÿ
+V	java:S125S"<This block of commented-out lines of code should be removed.(µÔé¡øÿÿÿÿ
+V	java:S125Z"<This block of commented-out lines of code should be removed.(Ñ°Ìÿÿÿÿÿ
+M	java:S106_"9Replace this use of System.out or System.err by a logger.(Î±ä
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(–½ÿ–ûÿÿÿÿ
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(‰Ğ×
+U
+java:S1161d":Add the "@Override" annotation above this method signature(½ªˆ•ùÿÿÿÿ
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(Ô·É³
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(Æéççûÿÿÿÿ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(”ˆâàøÿÿÿÿ
+Z	java:S106v"9Replace this use of System.out or System.err by a logger.(Ò°¾¨ùÿÿÿÿ8È…Òã0
+A
+java:S1068"&Remove this unused "n4" private field.(ÛîÊ²şÿÿÿÿ
+B
+java:S1144-",Remove this unused private "test400" method.(Õğ·Ô

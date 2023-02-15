@@ -1,0 +1,16 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.( òÇâ
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+>
+java:S1481"(Remove this unused "num" local variable.(·ÚÒÓ
+M
+java:S1854"8Remove this useless assignment to local variable "name".(ÕÎ&
+P
+java:S1854"5Remove this useless assignment to local variable "n".(˜õª»ÿÿÿÿÿ
+A
+java:S1481"&Remove this unused "n" local variable.(˜õª»ÿÿÿÿÿ
+>
+java:S1481")Remove this unused "name" local variable.(ÕÎ&
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êŠ»Éùÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(â‡İÉ

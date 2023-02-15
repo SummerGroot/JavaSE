@@ -1,0 +1,29 @@
+
+U
+java:S1118	":Add a private constructor to hide the implicit public one.(¤ıÛŸúÿÿÿÿ
+P
+java:S1854!":Remove this useless assignment to local variable "num500".(÷¸á‘
+Q
+java:S1854"6Remove this useless assignment to local variable "s2".(ìØÜÇıÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "b3".(Õ·‚˜
+Q
+java:S1854"6Remove this useless assignment to local variable "b1".(Û—©Öûÿÿÿÿ
+K
+java:S1854"6Remove this useless assignment to local variable "d1".(´¯
+F
+java:S1172
+"+Remove this unused method parameter "args".(úƒû¶ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¡Ñõšıÿÿÿÿ
+<
+java:S1481"'Remove this unused "d1" local variable.(´¯
+B
+java:S1481"'Remove this unused "b1" local variable.(Û—©Öûÿÿÿÿ
+=
+java:S1481"'Remove this unused "n2" local variable.(â¤µ
+=
+java:S1481"'Remove this unused "b3" local variable.(Õ·‚˜
+B
+java:S1481"'Remove this unused "s2" local variable.(ìØÜÇıÿÿÿÿ
+A
+java:S1481!"+Remove this unused "num500" local variable.(÷¸á‘

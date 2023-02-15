@@ -1,0 +1,8 @@
+
+N
+java:S1854"8Remove this useless assignment to local variable "sub3".(÷øÎð
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Èâ±Ûÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ûÍ™ôüÿÿÿÿ
+?
+java:S1481")Remove this unused "sub3" local variable.(÷øÎð
+V	java:S125"<This block of commented-out lines of code should be removed.(µéÙ‹ùÿÿÿÿ

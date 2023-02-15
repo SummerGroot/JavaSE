@@ -1,0 +1,18 @@
+
+W
+java:S4973E"<Strings and Boxed types should be compared using "equals()".(Ê¼‡ºıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ğÄ»Á
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æŸšÃøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´àÅ¤ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„…Øùÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(ì€©¶8¥ú¡Ìä0
+Q	java:S1256"<This block of commented-out lines of code should be removed.(ÜÑã
+Q	java:S125<"<This block of commented-out lines of code should be removed.(ÜÑã
+<
+java:S2129C"!Remove this "Integer" constructor(à“£úÿÿÿÿ
+7
+java:S2129D"!Remove this "Integer" constructor(„Ä®Ü
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(Ê¼‡ºıÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(÷¤îøûÿÿÿÿ
+]
+java:S2094L"BRemove this empty class, write its code or make it an "interface".(Ì‘ì–ÿÿÿÿÿ
