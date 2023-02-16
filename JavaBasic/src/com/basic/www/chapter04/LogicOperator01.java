@@ -19,7 +19,7 @@ public class LogicOperator01 {
         if (age > 20 & ++age < 90) {
             System.out.println("ok2");
         }
-        System.out.println("age="+age);
+        System.out.println("age=" + age);//21
         //区别
         int a = 4;
         int b = 9;
@@ -28,6 +28,6 @@ public class LogicOperator01 {
         if (a < 1 & ++b < 50) {
             System.out.println("ok3");
         }
-        System.out.println("a=" + a + "b=" + b);
+        System.out.println("a=" + a + "b=" + b);//a=4b=10
     }
 }

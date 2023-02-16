@@ -8,8 +8,8 @@ package com.basic.www.chapter04;
  */
 public class BitOperator02 {
     public static void main(String[] args) {
-        int a = 1 >> 2;//1/2^2
-        int c = 1 << 2;//1/2^2
+        int a = 1 >> 2;//1/2/2
+        int c = 1 << 2;//1*2*2
         System.out.println(a);
         System.out.println(c);
         System.out.println(15 >> 2);

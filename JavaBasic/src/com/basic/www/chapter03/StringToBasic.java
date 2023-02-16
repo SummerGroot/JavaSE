@@ -27,6 +27,6 @@ public class StringToBasic {
         System.out.println(num1 + "\t" + num2 + "\t" + num3);
         //怎么把字符串转成字符char->含义是指把字符串的第一个字符得到
         //解读s5.charAt(0)得到s5字符串的第一个字符'1'
-        System.out.println(s5.charAt(0));
+        System.out.println(s5.charAt(0));//1
     }
 }

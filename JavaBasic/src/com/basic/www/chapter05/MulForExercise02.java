@@ -11,7 +11,7 @@ public class MulForExercise02 {
         //打印9*9乘法表
         for (int i = 1; i <= 9; i++) {//表示第一列
             for (int j = 1; j <= i; j++) {//表示第二列
-                System.out.print(j + "\t" + "*" + "\t" + i + "\t=\t" + (j * i) + "\t\t");
+                System.out.print(j + "x" + i + "=" + (j * i) + "\t");
             }
             System.out.println("\n");
         }

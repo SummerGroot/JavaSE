@@ -7,7 +7,7 @@ package com.basic.www.chapter03;
  * @date: 2022-11-23 15:37
  */
 public class AutoConvertDetail {
-    public static void main(StringToBasicDetail[] args) {
+    public static void main(String[] args) {
         //有多种类型的数据混合运算时，系统首先自动将所有数据转换成容量最大的那种数据类型，然后再进行计算.
         int n1 = 10;
         //float d1 = n1+1.1;//错误 n1+1.1 =>结果是double类型;
@@ -31,5 +31,8 @@ public class AutoConvertDetail {
         int num200 = 1;
         float num300 = 1.1F;
         double num500 = b4 + s3 + num200 + num300;
+        double x = 9.97;
+        int nx = (int) Math.round(x);
+        System.out.println(nx);
     }
 }

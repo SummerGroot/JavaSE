@@ -7,7 +7,7 @@ package com.basic.www.chapter03;
  * @date: 2022-11-23 16:23
  */
 public class ForceConvertDetail {
-    public static void main(StringToBasicDetail[] args) {
+    public static void main(String[] args) {
         //int x =(int10*3.5+6*1.5;//double->int
         int x = (int) (10 * 3.5 + 6 * 1.5);
         System.out.println(x);

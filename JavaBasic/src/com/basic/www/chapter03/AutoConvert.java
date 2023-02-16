@@ -7,7 +7,7 @@ package com.basic.www.chapter03;
  * @date: 2022-11-23 15:30
  */
 public class AutoConvert {
-    public static void main(StringToBasicDetail[] args) {
+    public static void main(String[] args) {
         int a = 'c';
         double d= 80;
         System.out.println(a);
