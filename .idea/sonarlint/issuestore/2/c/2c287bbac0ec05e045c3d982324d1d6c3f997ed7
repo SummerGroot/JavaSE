@@ -1,0 +1,9 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ“š
+P	java:S125"<This block of commented-out lines of code should be removed.(íÕôu
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µ÷ß¹
+Q	java:S125"<This block of commented-out lines of code should be removed.(µ÷ß¹
+—
+java:S1186""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õáò¨
+œ
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µ´Šìÿÿÿÿÿ

@@ -1,0 +1,9 @@
+
+~
+java:S4165J"cRemove this useless assignment; "bonus" already holds the assigned value along all execution paths.(ƒÑÀÎþÿÿÿÿ
+O
+java:S5993"9Change the visibility of this constructor to "protected".(Æ±‰ã
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(º§Ö–þÿÿÿÿ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(æù÷áýÿÿÿÿ
+J
+java:S1656J"/Remove or correct this useless self-assignment.(ƒÑÀÎþÿÿÿÿ

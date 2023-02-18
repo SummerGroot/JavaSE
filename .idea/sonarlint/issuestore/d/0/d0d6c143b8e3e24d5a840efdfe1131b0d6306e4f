@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÊìäÌ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ìÊ »
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÍÃ¿ş
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ìÊ »
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·¹ïúÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(çĞÛ­

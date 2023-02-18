@@ -1,0 +1,29 @@
+
+p
+java:S1104 "NMake n2 a static final constant or non-public and provide accessors if needed.(á¢ÓĞÿÿÿÿÿ8™‰°¢å0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ˜¿™
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’ï­İ
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(î¹ä²ıÿÿÿÿ8á­±¢å0
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(‹¼Ó‘ûÿÿÿÿ8á­±¢å0
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(’í‹€8——³¢å0
+
+java:S11869"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Óé¬©8˜£å0
+£
+java:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÇÎÅÜøÿÿÿÿ8‘˜£å0
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(‹ÿî­8·´µ¢å0
+{
+java:S1171E"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8·´µ¢å0
+T	java:S106G"9Replace this use of System.out or System.err by a logger.(Î±ä8ºê¶¢å0
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(‹ÿî­8¯÷·¢å0
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(•Ğš§ıÿÿÿÿ8¥ñ¢å0
+{
+java:S1171U"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8î‘†£å0
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(¶àÔªüÿÿÿÿ8Ÿªƒ£å0
+T	java:S106^"9Replace this use of System.out or System.err by a logger.(“êú8ô£‡£å0
+Z	java:S106c"9Replace this use of System.out or System.err by a logger.(®ÒçÄúÿÿÿÿ8ô£‡£å0
+;
+java:S1068"&Remove this unused "n1" private field.(¨œî
+C
+java:S1068O"&Remove this unused "n3" private field.(Ã„£8·´µ¢å0

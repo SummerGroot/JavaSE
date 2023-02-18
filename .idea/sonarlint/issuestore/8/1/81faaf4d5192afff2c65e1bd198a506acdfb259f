@@ -1,0 +1,14 @@
+
+i
+java:S1104"NMake n1 a static final constant or non-public and provide accessors if needed.(¾ç«İùÿÿÿÿ
+k
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(æ‚³Õøÿÿÿÿ
+E
+java:S1444"*Make this "public static name" field final(æ‚³Õøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ó÷îZ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨Ô…‹
+N
+java:S1610"1Convert the abstract class "E" into an interface.(À“©—8Ù£Âå0
+£
+java:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µ´Šìÿÿÿÿÿ8áü£Âå0

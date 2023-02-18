@@ -1,0 +1,10 @@
+
+S
+java:S1854"8Remove this useless assignment to local variable "test".(Ú øüøÿÿÿÿ
+D
+java:S1481")Remove this unused "test" local variable.(Ú øüøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¿Ýúùÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(·Šáûþÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(¼û¡†üÿÿÿÿ
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(¢£ƒŠ8¶°½£å0

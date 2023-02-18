@@ -17,7 +17,7 @@ public class TwoDimensionalArray01 {
                 {0, 0, 0, 0, 0, 0}};
 
         //关于二维数组的关键概念
-        System.out.println("二维数组的元素个数：" + arr.length);
+        System.out.println("二维数组的元素个数：" + arr.length);//4
         //二维数组的每个元素是一维数组，所以需要得到每个一维数组的值，需要再次遍历
         //如果访问第(i+1)个一维数组第(j+1)个值 arr[i][j];
 

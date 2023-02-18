@@ -1,0 +1,17 @@
+
+L
+java:S1854"6Remove this useless assignment to local variable "cc".(§¤Œ©
+=
+java:S1481"'Remove this unused "cc" local variable.(§¤Œ©
+h	java:S116"SRename this field "TAX_RATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«áÛ 
+j	java:S116"URename this field "TAX_RATE02" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óû’Ú
+o	java:S116"URename this field "TAX_RATE03" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×İğÂşÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(«áÛ 
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ûÒÈùÿÿÿÿ
+]
+java:S2094'"BRemove this empty class, write its code or make it an "interface".(º¤¥÷øÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(îØÇœÿÿÿÿÿ

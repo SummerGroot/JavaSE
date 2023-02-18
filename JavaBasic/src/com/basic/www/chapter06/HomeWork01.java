@@ -11,7 +11,7 @@ public class HomeWork01 {
         //思路：数组扩容+定位
         //先定义原数组
         int[] arr = {10, 12, 45, 90};
-        int insertNum = 23;
+        int insertNum = 80;
         int index = -1;//inde就是要插入的位置
         //遍历arr数组，如果发现insertNum<=arr[i]，说明i就是要插入的位置
         //使用index保留index = i;

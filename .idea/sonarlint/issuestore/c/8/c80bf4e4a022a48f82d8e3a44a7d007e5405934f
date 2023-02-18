@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öİ­Ïúÿÿÿÿ
+W
+java:S2209"5Change this instance-reference to a static reference.(öİ­Ïúÿÿÿÿ8ß¬ŠÊå0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡ãÈÂ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸ôøøÿÿÿÿ
+i
+java:S3252"GUse static access with "com.basic.www.chapter10.interface_.AA" for "a".(¸ôøøÿÿÿÿ8ÄŠÊå0
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(È€ôÓ
+^
+java:S1214"CMove constants defined in this interfaces to another class or enum.(‰ë…çüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(È€ôÓ

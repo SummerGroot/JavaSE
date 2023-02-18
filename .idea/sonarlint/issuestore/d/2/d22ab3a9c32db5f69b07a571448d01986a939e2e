@@ -1,0 +1,6 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Åİ¸úÿÿÿÿ8«˜å¦å0
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊØ°åùÿÿÿÿ
+e
+java:S3518"CMake sure this expression can't be zero before doing this division.(°ÙùÂûÿÿÿÿ8¬²›§å0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°ÙùÂûÿÿÿÿ8³˜å¦å0

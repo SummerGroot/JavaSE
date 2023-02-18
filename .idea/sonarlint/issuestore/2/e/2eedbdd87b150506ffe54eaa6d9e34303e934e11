@@ -1,0 +1,25 @@
+
+p
+java:S11042"NMake n2 a static final constant or non-public and provide accessors if needed.(ÜÜ¬øÿÿÿÿ8Ã¥çŸå0
+p
+java:S1104?"NMake n1 a static final constant or non-public and provide accessors if needed.(ŒâÖâùÿÿÿÿ8Ä¥çŸå0
+J
+java:S14442"(Make this "public static n2" field final(ÜÜ¬øÿÿÿÿ8Ä¥çŸå0
+J
+java:S1444?"(Make this "public static n1" field final(ŒâÖâùÿÿÿÿ8Ä¥çŸå0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±•Úëûÿÿÿÿ8’¦çŸå0
+]	java:S125"<This block of commented-out lines of code should be removed.(ºô’Ùúÿÿÿÿ8•¦çŸå0
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÃáÓÚüÿÿÿÿ8—¦çŸå0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(òÑÙÿşÿÿÿÿ8˜¦çŸå0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(À¦Ü­şÿÿÿÿ8š¦çŸå0
+\
+java:S1118,":Add a private constructor to hide the implicit public one.(ºÜµÕüÿÿÿÿ8š¦çŸå0
+U	java:S106."9Replace this use of System.out or System.err by a logger.(«æà8›¦çŸå0
+{
+java:S11713"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8¦çŸå0
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(©ØÌÍüÿÿÿÿ8¦çŸå0
+V
+java:S11188":Add a private constructor to hide the implicit public one.(ıÕ¶T8¦çŸå0
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(š®‰8Ÿ¦çŸå0
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(é’ŸÅ8 ¦çŸå0

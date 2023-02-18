@@ -25,7 +25,7 @@ public class SeqSearch {
             if (findName.equals(names[i])) {
                 System.out.println("恭喜您找到：" + findName);
                 System.out.println("下标为：" + i);
-                //把i保持到index
+                //把i保存到index
                 index = i;
                 break;//退出
             }

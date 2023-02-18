@@ -1,0 +1,12 @@
+
+i
+java:S1104"NMake n1 a static final constant or non-public and provide accessors if needed.(ŒâÖâùÿÿÿÿ
+C
+java:S1444"(Make this "public static n1" field final(ŒâÖâùÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(ãä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³ºú¦üÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(³ºú¦üÿÿÿÿ8–­à¿å0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ğÙ úÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Øâ„ƒ8Î’Ş¿å0
+]	java:S125"<This block of commented-out lines of code should be removed.(ğÙ úÿÿÿÿ8–­à¿å0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ŠÆ¦ì8ñíŞ¿å0
