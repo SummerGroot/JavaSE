@@ -11,6 +11,7 @@ public class PolyDetail03 {
         BB bb = new BB();
         System.out.println(bb instanceof BB);//true
         System.out.println(bb instanceof AA);//true
+        System.out.println(bb instanceof CC);
 
         //aa的编译类型是AA，运行类型是BB
         AA aa = new BB();
@@ -29,3 +30,4 @@ class AA {
 
 class BB extends AA {
 }//子类
+class CC extends BB {}

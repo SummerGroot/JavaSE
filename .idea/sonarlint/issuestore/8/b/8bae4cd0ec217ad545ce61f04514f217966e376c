@@ -1,0 +1,11 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öŒ•ñûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ä¯è—
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñ›ò¾øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®Ö èøÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ú÷õðûÿÿÿÿ
+h	java:S100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íªËŠüÿÿÿÿ
+;
+java:S3398" Move this method into "Inner06".(ÒÄùÿÿÿÿ
+A
+java:S1068"&Remove this unused "n1" private field.(àûú’üÿÿÿÿ

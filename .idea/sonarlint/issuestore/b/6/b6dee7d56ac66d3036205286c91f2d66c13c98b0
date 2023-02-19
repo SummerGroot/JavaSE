@@ -1,11 +1,0 @@
-
-b
-java:S1104"MMake i a static final constant or non-public and provide accessors if needed.(ï“ø	
-c
-java:S1104."MMake i a static final constant or non-public and provide accessors if needed.(Úí±Ž
-N	java:S106"9Replace this use of System.out or System.err by a logger.(“¥ºÄ
-M	java:S106"9Replace this use of System.out or System.err by a logger.(ÚäÉQ
-8
-java:S2387."""i" is the name of a field in "A".(Úí±Ž
-]	java:S1251"<This block of commented-out lines of code should be removed.(ÎÏè¬ûÿÿÿÿ8‹ÅŽÊã0
-X	java:S125:"<This block of commented-out lines of code should be removed.(±±—û8çç´Êã0

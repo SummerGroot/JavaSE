@@ -23,12 +23,14 @@ public class PolyMethod {
 
 class B {//父类
 
+
     public void say() {
         System.out.println("B say()方法被调用");
     }
 }
 
 class A extends B {//子类
+
 
     public int sum(int n1, int n2) {//和下面的sum重载
         return n1 + n2;

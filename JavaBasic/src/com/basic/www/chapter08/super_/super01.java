@@ -9,8 +9,8 @@ package com.basic.www.chapter08.super_;
 public class super01 {
     public static void main(String[] args) {
         B b = new B();
-        //b.sum();
-        b.test();
+        b.sum();
+        //b.test();
     }
 }
 
@@ -86,7 +86,7 @@ class B extends A {
          * 如果没有，则找父类（如果有，并可以调用，则调用）
          * 如果父类没有，则继续找父类的父类。直到Object类
          * 提示：如果查找方法的过程种，找到了，但是不能访问，则报错
-         *       如果查找方法的过程中，没有招法哦，则提示方法不存在*/
+         *       如果查找方法的过程中，没有找到，则提示方法不存在*/
         //this.cal();
         //等价cal（）；
         super.cal();

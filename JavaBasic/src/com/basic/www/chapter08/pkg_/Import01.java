@@ -4,7 +4,6 @@ package com.basic.www.chapter08.pkg_;
  * import java.util.Scanner 表示只会导入java.util包下的Scanner
  * import java.util.* 表示将java.util 包下的所有类都导入
  * */
-
 import java.util.Arrays;
 
 /**

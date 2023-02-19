@@ -13,7 +13,7 @@ class Account {
      * 2、通过setXxx的方法给Account的属性赋值
      * 3、在AccountTest中测试*/
     //为了封装将，3个属性设置为private
-    private String name;
+    private String name;//属性
     private double balance;
     private String pwd;
 //提供两个构造器

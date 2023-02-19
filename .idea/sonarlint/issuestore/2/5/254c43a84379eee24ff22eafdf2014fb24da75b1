@@ -1,0 +1,19 @@
+
+j
+java:S1104+"OMake age a static final constant or non-public and provide accessors if needed.(ÖÙ–şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(çë‘Öıÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(´ß¸§
+N
+java:S1117/"8Rename "name" which hides the field declared at line 41.(ö©°ğ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(‹ÄŒû
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(êˆóöüÿÿÿÿ
+N
+java:S18546"8Remove this useless assignment to local variable "name".(ËÃ¦¨
+V
+java:S18545";Remove this useless assignment to local variable "address".(•ëÖ»ÿÿÿÿÿ
+G
+java:S14815",Remove this unused "address" local variable.(•ëÖ»ÿÿÿÿÿ
+N
+java:S11176"8Rename "name" which hides the field declared at line 41.(ËÃ¦¨
+?
+java:S14816")Remove this unused "name" local variable.(ËÃ¦¨

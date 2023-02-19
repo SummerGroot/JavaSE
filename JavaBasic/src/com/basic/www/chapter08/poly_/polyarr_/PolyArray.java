@@ -12,7 +12,7 @@ public class PolyArray {
          * 应用实例：现有一个继承结构如下：要求创建1个Person对象，
          * 2个Student对象和2个Teacher对象，统一放在数组中，并调用say方法。
          * */
-        Person[] persons = new Person[5];
+        Person[] persons = new Person[5];//创建Person类型的数组
         persons[0] = new Person("summer", 20);
         persons[1] = new Student("lisi", 18, 100);
         persons[2] = new Student("james", 20, 98);
@@ -21,7 +21,7 @@ public class PolyArray {
 
         //循环遍历多态数组 调用say方法
         for (int i = 0; i < persons.length; i++) {
-            //提示：persons[i] 编译类型时Person，
+            //提示：persons[i] 编译类型是Person，
             //运行类型是根据实际情况由JVM来判断
             System.out.println(persons[i].say());//动态绑定机制
             //类型判断+向下转型
