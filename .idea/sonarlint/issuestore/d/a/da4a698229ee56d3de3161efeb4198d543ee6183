@@ -1,0 +1,11 @@
+
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ηµν‘8ρι“Με0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(εΤΏ8ΗΖ–Με0
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒΜβ–ψÿÿÿÿ8ΗΖ–Με0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(Τ£”η8ª¬—Με0
+_
+java:S2094$"BRemove this empty class, write its code or make it an "interface".(ΥΟµ8€Π”Με0
+H
+java:S1068"&Remove this unused "n1" private field.(ΰϋϊ’όÿÿÿÿ8ΘΖ–Με0

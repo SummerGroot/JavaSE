@@ -1,0 +1,17 @@
+
+C
+java:S1604+"(Make this anonymous inner class a lambda(°€˜óþÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(è¹—ì
+V	java:S125)"<This block of commented-out lines of code should be removed.(î×Úúÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ÚÖ„Šþÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(–°·‚
+V	java:S125:"<This block of commented-out lines of code should be removed.(úÏ¼ýøÿÿÿÿ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(®¾¬
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(ß£å«
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(í•¤½ùÿÿÿÿ
+Q	java:S125]"<This block of commented-out lines of code should be removed.( Õ­
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(žÆ¹ß
+Q
+java:S1610u"6Convert the abstract class "Animal" into an interface.(éñ·›ûÿÿÿÿ
+A
+java:S1068"&Remove this unused "n1" private field.(ý€ìÀúÿÿÿÿ

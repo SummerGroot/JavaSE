@@ -1,14 +1,0 @@
-
-Q	java:S125"<This block of commented-out lines of code should be removed.(³âØÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(’†–æûÿÿÿÿ
-N	java:S106 "9Replace this use of System.out or System.err by a logger.(Ú´»ì
-O
-java:S1172%"4Remove these unused method parameters "name", "age".(·· œÿÿÿÿÿ
-N	java:S106&"9Replace this use of System.out or System.err by a logger.(¦ªšü
-S
-java:S1117+"8Rename "name" which hides the field declared at line 19.(æü÷„üÿÿÿÿ
-S	java:S106-"9Replace this use of System.out or System.err by a logger.(Ìçõ¿ûÿÿÿÿ
-N	java:S106/"9Replace this use of System.out or System.err by a logger.(“Ó½Ë
-Q	java:S1252"<This block of commented-out lines of code should be removed.(ãåû÷
-S	java:S1064"9Replace this use of System.out or System.err by a logger.(„¹úÿÿÿÿ
-S	java:S1068"9Replace this use of System.out or System.err by a logger.(îñ•”ıÿÿÿÿ

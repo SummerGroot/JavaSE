@@ -10,6 +10,7 @@ public class VarScope {
     public static void main(String[] args) {
         VarScopeCat vsc = new VarScopeCat();
         System.out.println(vsc.weight);
+
     }
 }
 
@@ -19,6 +20,7 @@ class VarScopeCat {
     double weight;//默认值是0.0
     //属性在定义是，可以直接赋值
     {
+        //代码块
         int num = 10;
     }
 

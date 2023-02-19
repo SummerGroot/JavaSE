@@ -13,7 +13,7 @@ public class VarScopeDetail {
          * 属性生命周期较长，伴随着对象的创建而创建，伴随着对象销毁而销毁。
          * 局部变量，生命周期较短，伴随着它的代码块的执行创建，
          * 伴随着代码块的结束而销毁/即在一次方法调用过程中。*/
-        //pv.say();
+        pv.say();
         //当执行say（）方法时，say方法的局部变量比如name，会创建，
         //当say执行完毕后name局部变量就销毁，但是属性（全局变量）任然可以使用
         T03 t03 = new T03();
@@ -46,6 +46,7 @@ class PersonVar {
         //细节  属性和局部变量可以重名，访问时遵循就近原则
         String name = "king";
         System.out.println("say()name=" + name);
+        System.out.println("PersonVar的属性name=" + this.name);
     }
 
     public void hi() {

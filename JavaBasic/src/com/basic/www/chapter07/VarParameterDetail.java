@@ -8,7 +8,7 @@ package com.basic.www.chapter07;
  */
 public class VarParameterDetail {
     public static void main(String[] args) {
-        //可变参数的实参可以时数组
+        //可变参数的实参可以是数组
         int[] arr = {1,2,3};
         D d = new D();
         d.f1(arr);

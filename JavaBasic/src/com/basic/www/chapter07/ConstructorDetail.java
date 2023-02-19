@@ -53,6 +53,6 @@ class Dog {
 
     //显示定义无参构造
     Dog() {
-
+        System.out.println("Dog的无参构造器被调用");
     }
 }
