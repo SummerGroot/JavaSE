@@ -14,7 +14,7 @@ public class StaticMethod_ {
         Student.payFee(800);//对的
         Student james = new Student("james");
         james.payFee(200);
-        //输出当前受到的总学费  类名.类方法名
+        //输出当前收到的总学费  类名.类方法名
         Student.showFee();
         System.out.println("9开平方=" + Math.sqrt(9));
         System.out.println(MyTools.sum(40, 30));

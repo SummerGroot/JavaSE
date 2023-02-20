@@ -1,0 +1,11 @@
+
+k
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(Ç‹õüÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(’ŒÚ6
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•®ÌŒøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëçøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(î“«
+W	java:S125*"<This block of commented-out lines of code should be removed.(ìÁ“^8¼ö½Çæ0
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(™‰ˆí
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(‹É”Î8ßÂ¤Çæ0
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(å†—Ìşÿÿÿÿ8¨’­Çæ0
