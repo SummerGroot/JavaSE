@@ -1,0 +1,15 @@
+
+S
+java:S1854"6Remove this useless assignment to local variable "n3".(Ş·ã¨8íò”ç0
+R
+java:S1854"5Remove this useless assignment to local variable "i".(“Ã¿à8ş¾è”ç0
+^
+java:S1854"<Remove this useless assignment to local variable "integer1".(…ğİñùÿÿÿÿ8ö¤å”ç0
+>
+java:S2129"!Remove this "Integer" constructor(¸·¢·8÷ã”ç0
+O
+java:S1481"-Remove this unused "integer1" local variable.(…ğİñùÿÿÿÿ8÷¤å”ç0
+C
+java:S1481"&Remove this unused "i" local variable.(“Ã¿à8ÿ¾è”ç0
+D
+java:S1481"'Remove this unused "n3" local variable.(Ş·ã¨8‚íò”ç0

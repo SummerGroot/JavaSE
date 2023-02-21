@@ -1,0 +1,12 @@
+
+U
+java:S3518"8Make sure "n2" can't be zero before doing this division.(´À½ğ8Ûİ£óæ0
+T
+java:S1854"7Remove this useless assignment to local variable "res".(´À½ğ8ƒˆšóæ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ò÷š8„ˆšóæ0
+X	java:S125"<This block of commented-out lines of code should be removed.(Î¤»²8İİ£óæ0
+E
+java:S1481"(Remove this unused "res" local variable.(´À½ğ8„ˆšóæ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥ËÀ»øÿÿÿÿ8¼¢œóæ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÒœÒ…úÿÿÿÿ8ô„¦óæ0
+E	java:S108")Either remove or fill this block of code.(Úîø›8…ˆšóæ0

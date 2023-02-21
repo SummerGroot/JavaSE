@@ -1,0 +1,22 @@
+
+O
+java:S1854"9Remove this useless assignment to local variable "other".(¢²·Ê
+\
+java:S1854":Remove this useless assignment to local variable "autumn".(òÕî¤ùÿÿÿÿ8´¢ãèæ0
+U
+java:S1854":Remove this useless assignment to local variable "summer".(÷âœûÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "winter".(Üïİıÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "spring".(Á·Ø¡úÿÿÿÿ
+F
+java:S1481"+Remove this unused "spring" local variable.(Á·Ø¡úÿÿÿÿ
+F
+java:S1481"+Remove this unused "winter" local variable.(Üïİıÿÿÿÿ
+F
+java:S1481"+Remove this unused "summer" local variable.(÷âœûÿÿÿÿ
+M
+java:S1481"+Remove this unused "autumn" local variable.(òÕî¤ùÿÿÿÿ8¶¢ãèæ0
+X	java:S125"<This block of commented-out lines of code should be removed.(ĞîŞæ8¹¢ãèæ0
+@
+java:S1481"*Remove this unused "other" local variable.(¢²·Ê

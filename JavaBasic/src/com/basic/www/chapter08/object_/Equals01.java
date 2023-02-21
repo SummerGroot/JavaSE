@@ -1,7 +1,5 @@
 package com.basic.www.chapter08.object_;
 
-import com.sun.org.apache.xpath.internal.operations.String;
-
 /**
  * @version: java version 1.8
  * @Author: Summer Johnny
@@ -15,16 +13,16 @@ public class Equals01 {
         A c = b;
         System.out.println(a == c);//?true
         System.out.println(b == c);//?true
-        B bObj = a;
+        B bObj = a;//a这个引用赋给  父类的引用   <==> B bobj = new  A();
         System.out.println(bObj == c);//?true
         int num1 = 10;
         double num2 = 10.0;
-        System.out.println(num1 == num2);//基本数据类型
+        System.out.println(num1 == num2);//基本数据类型 true
 
         //equals方法，源码怎么查看
-        //"hello".equals("123");
-        /*
-        JDK String类的equals方法 源码
+        System.out.println("hello".equals("123"));//false
+
+        /*JDK String类的equals方法 源码
         把Object的equals方法重写了，变成了比较两个字符串的值是否相等
         public boolean equals(Object anObject) {
         if (this == anObject) {//如果是同一个对象
@@ -48,22 +46,22 @@ public class Equals01 {
         return false;
         }*/
         //Object类的equals方法
-        /*
-        默认比较对象地址是否相同
-        也就是判断两个对象的是不是同一个对象
-        public boolean equals(Object obj) {
-            return (this == obj);
-        }
-        */
-        /*
-        Integer 也重写了equals方法，判断两个值是否相等
-        public boolean equals(Object obj) {
+
+       /* 默认比较对象地址是否相同
+        也就是判断两个对象的是不是同一个对象*/
+        //public boolean equals(Object obj) {
+        //    return (this == obj);
+        //}
+
+
+        //Integer 也重写了equals方法，判断两个值是否相等
+        /*public boolean equals(Object obj) {
             if (obj instanceof Integer) {
                 return value == ((Integer)obj).intValue();
             }
             return false;
-        }
-        */
+        }*/
+
         Integer i1 = new Integer(5);
         Integer i2 = new Integer(5);
         System.out.println((i1 == i2));//false

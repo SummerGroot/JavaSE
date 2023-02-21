@@ -1,0 +1,7 @@
+
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÜŠ§–ýÿÿÿÿ
+^
+java:S1854"CRemove this useless assignment to local variable "fileInputStream".(ÜŠ§–ýÿÿÿÿ
+O
+java:S1481"4Remove this unused "fileInputStream" local variable.(ÜŠ§–ýÿÿÿÿ

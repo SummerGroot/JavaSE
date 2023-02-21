@@ -11,8 +11,8 @@ public class Polyparameter {
         Worker tom = new Worker("tom", 6125.2);
         Manager jack = new Manager("jack", 10000, 20000);
         Polyparameter polyparameter = new Polyparameter();
-        polyparameter.showEmpAnnual(tom);
-        polyparameter.showEmpAnnual(jack);
+        polyparameter.showEmpAnnual(tom);//73502.4
+        polyparameter.showEmpAnnual(jack);//140000.0
 
         polyparameter.testWork(tom);//普通员工：tom正在工作
         polyparameter.testWork(jack);//经理：jack正在管理

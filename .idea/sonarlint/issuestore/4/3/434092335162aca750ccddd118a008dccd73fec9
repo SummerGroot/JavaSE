@@ -1,0 +1,8 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(çÚ‰¾
+—
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Í½,
+>
+java:S1185!"(Remove this method to simply inherit it.(ç³Àß
+X	java:S125"<This block of commented-out lines of code should be removed.(žž¯Ÿ8ˆ àíæ0

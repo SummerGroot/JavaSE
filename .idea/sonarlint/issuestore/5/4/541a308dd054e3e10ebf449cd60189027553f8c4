@@ -1,0 +1,16 @@
+
+h	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯78´ú«öæ0
+T
+java:S1854"7Remove this useless assignment to local variable "tom".(ûÇ…­8ğƒ¯öæ0
+E
+java:S1481"(Remove this unused "tom" local variable.(ûÇ…­8ğƒ¯öæ0
+X	java:S125"<This block of commented-out lines of code should be removed.(š±üá8ñƒ¯öæ0
+W
+java:S2209"5Change this instance-reference to a static reference.(ïóªÄşÿÿÿÿ8¼ú«öæ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²î¤¬şÿÿÿÿ8¼ú«öæ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(³õş¢8¼ú«öæ0
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¨¸¾üùÿÿÿÿ8½ú«öæ0
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ÎöË 8¾ú«öæ0
+E
+java:S1068"(Remove this unused "name" private field.(ğëÍĞ8¾ú«öæ0

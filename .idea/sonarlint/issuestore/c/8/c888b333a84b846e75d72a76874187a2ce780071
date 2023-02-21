@@ -1,7 +1,0 @@
-
-Y
-java:S1854"7Remove this useless assignment to local variable "sub".(³Åïíÿÿÿÿÿ8åë¤Éæ0
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¾¡Ó
-J
-java:S1481"(Remove this unused "sub" local variable.(³Åïíÿÿÿÿÿ8çë¤Éæ0
-]	java:S125"<This block of commented-out lines of code should be removed.(’¹¤Èúÿÿÿÿ8îÚ¥Éæ0
