@@ -32,7 +32,7 @@ class Person {  //extends Object
         if (obj instanceof Person) {
             //是Person，我们才比较
             //进行向下转型,需要得到obj的 各个属性
-            Person p = (Person) obj;
+            Person p = (Person) obj;//obj=new Person("kobe", 37, '男');
             return this.name.equals(p.name) && this.age == p.age && this.gender == p.gender;
         }
         //如果不是Person，则直接返回false

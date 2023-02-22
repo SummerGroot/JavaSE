@@ -12,14 +12,14 @@ public class ToString_ {
         /*
         Object 的 toString() 方法返回一个字符串，该字符串包含了该对象的类的全限定名，
         getClass().getName() 类的全类名(包名+类名）
-        Integer.toHexString(hashCode()将对象的hashCode值转成16进制字符串
+        Integer.toHexString(hashCode()将对象的hashCode值转成16进制字符串)
         public String toString() {
             return getClass().getName() + "@" + Integer.toHexString(hashCode());
         }
         */
 
         Monster monster = new Monster("小妖怪", "巡山", 3000);
-        System.out.println(monster.toString() + "monster.hashCode()：" + monster.hashCode());
+        System.out.println(monster.toString() + "\nmonster.hashCode()：" + monster.hashCode());
         //com.basic.www.conpter08.object_.Monster@1b6d3586
         System.out.println(monster);
         //等价monster.toString()

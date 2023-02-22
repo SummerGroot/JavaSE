@@ -122,10 +122,6 @@ i
 i
 9JavaBasic/src/com/basic/www/chapter08/debug_/Debug01.java,2\2\22dd6ed8c6f01f9ba986d4b2637bbf64beaf8185
 l
-<JavaBasic/src/com/basic/www/chapter08/object_/Finalize_.java,4\8\48565a99b8f4bcd9e6aaea1d497ccad0565ea318
-l
-<JavaBasic/src/com/basic/www/chapter08/object_/ToString_.java,6\2\62c7bdc19ed3b0e709a3a670e179f5808b5d9f22
-l
 <JavaBasic/src/com/basic/www/chapter08/object_/HashCode_.java,5\2\52b5cdcc055c615396cc9fb0dc65093ea963f65b
 s
 CJavaBasic/src/com/basic/www/chapter08/object_/EqualsExercise02.java,f\7\f73248604d30d14602180b5b54ea1daea4ccaeae
