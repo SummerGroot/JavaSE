@@ -1,6 +1,7 @@
 package com.basic.www.chapter13.arrays_;
 
 import java.util.Arrays;
+import java.util.List;
 
 /**
  * @Author: Summer Johnny
@@ -25,7 +26,27 @@ public class ArraysMethod02 {
         Integer[] newArr = Arrays.copyOf(arr, arr.length - 2);
         System.out.println("=====拷贝完后=====");
         System.out.println(Arrays.toString(newArr));
-        //fill
-
+        //fill元素的填充
+        Integer[] num = new Integer[]{9, 3, 2};
+        /*
+         * 1、使用99去填充num数组，可以理解成替换原理*/
+        Arrays.fill(num, 99);
+        System.out.println("=====填充完后=====");
+        System.out.println(Arrays.toString(num));
+        //equals  比较两个元素内容是否完全一致
+        Integer[] arr1 = {1, 2, 3, 4, 5, 6};
+        //如果arr和arr的元素一样，则返回true
+        System.out.println(Arrays.equals(arr, arr1));
+        //asList 将一组值，转换成list
+        /*
+        * 1、 asList会将(2, 3, 4, 5, 6, 1)数据转成一个List集合
+        * 2、返回的aslist编译类型 List(接口)
+        * 3、aslist运行类型 java.util.Arrays$ArrayList
+        * 4、是Arrays类的静态内部类
+        *  private static class ArrayList<E> extends AbstractList<E>
+        implements RandomAccess, java.io.Serializable*/
+        List<Integer> aslist = Arrays.asList(2, 3, 4, 5, 6, 1);
+        System.out.println("aslist=" + aslist);
+        System.out.println("aslist的运行类型"+aslist.getClass());
     }
 }
