@@ -1,0 +1,13 @@
+
+b
+java:S1192"LDefine a constant instead of duplicating this literal "hello world" 3 times.(Ò„ƒ×
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÒ ‚øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÝÃÖ¬üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ëë¢Ø
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷®ì˜
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(©ÞÏò
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(£àÌž
+W	java:S1254"<This block of commented-out lines of code should be removed.(”ý˜8ÅåÓ¹ç0
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(™Ãø¤

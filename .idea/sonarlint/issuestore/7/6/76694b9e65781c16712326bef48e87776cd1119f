@@ -1,0 +1,36 @@
+
+e
+java:S2583"CChange this condition so that it does not always evaluate to "true"(Æ­†áùÿÿÿÿ8Åà•ç0
+Q
+java:S1854"5Remove this useless assignment to local variable "f".(ëçU8Æà•ç0
+W
+java:S1854
+"5Remove this useless assignment to local variable "d".(›¨Ê©ıÿÿÿÿ8Æà•ç0
+Z
+java:S1854"8Remove this useless assignment to local variable "obj1".(Æ­†áùÿÿÿÿ8É¹••ç0
+U
+java:S1854"8Remove this useless assignment to local variable "obj1".(¦Ø£8Æà•ç0
+Z
+java:S1854"8Remove this useless assignment to local variable "obj2".(¥Ô…óúÿÿÿÿ8»ˆ—•ç0
+H
+java:S1481
+"&Remove this unused "d" local variable.(›¨Ê©ıÿÿÿÿ8Çà•ç0
+]	java:S125
+"<This block of commented-out lines of code should be removed.(›¨Ê©ıÿÿÿÿ8Çà•ç0
+B
+java:S1481"&Remove this unused "f" local variable.(ëçU8Çà•ç0
+W	java:S125"<This block of commented-out lines of code should be removed.(ëçU8Çà•ç0
+R
+java:S2154"0Add an explicit cast to match types of operands.(Æ­†áùÿÿÿÿ8Èà•ç0
+C
+java:S2129"!Remove this "Integer" constructor(Æ­†áùÿÿÿÿ8Èà•ç0
+B
+java:S2129" Remove this "Double" constructor(Æ­†áùÿÿÿÿ8Èà•ç0
+K
+java:S1481")Remove this unused "obj1" local variable.(Æ­†áùÿÿÿÿ8Ê¹••ç0
+K
+java:S1481")Remove this unused "obj2" local variable.(Ê¿“Ïüÿÿÿÿ8¼ˆ—•ç0
+>
+java:S2129"!Remove this "Integer" constructor(¦Ø£8Éà•ç0
+B
+java:S2129" Remove this "Double" constructor(¥Ô…óúÿÿÿÿ8Éà•ç0

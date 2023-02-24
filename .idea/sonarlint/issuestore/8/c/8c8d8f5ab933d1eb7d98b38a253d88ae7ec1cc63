@@ -1,0 +1,11 @@
+
+u
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÏáóÃ
+
+java:S1149$"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Œóïşÿÿÿÿ8¯À¯¿ç0
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ãš¦º
+W	java:S125"<This block of commented-out lines of code should be removed.(È…—8ÁÆš¿ç0
+V	java:S125"<This block of commented-out lines of code should be removed.(³ğˆ°ÿÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(æöœö
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(º–ç“ûÿÿÿÿ8±À¯¿ç0
+]	java:S125$"<This block of commented-out lines of code should be removed.(Œóïşÿÿÿÿ8²À¯¿ç0

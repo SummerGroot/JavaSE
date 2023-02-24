@@ -1,0 +1,28 @@
+
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ƒ¥Ú‘ùÿÿÿÿ8ÏÆŸ–ç0
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(„æÿ8Ğû¡–ç0
+X
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ø¶à)8Ñû¡–ç0
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(É¡·8Ã®£–ç0
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ïÍİˆ8ìï¥–ç0
+C
+java:S2129"!Remove this "Integer" constructor(éòí°ÿÿÿÿÿ8ß±–ç0
+>
+java:S2129"!Remove this "Integer" constructor(Å£²Ä8à±–ç0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ¥Ú‘ùÿÿÿÿ8ÕÆŸ–ç0
+>
+java:S2129"!Remove this "Integer" constructor(¼ª¥˜8ÖÆŸ–ç0
+C
+java:S2129"!Remove this "Integer" constructor(È‚ğøÿÿÿÿ8«·–ç0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„æÿ8«·–ç0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¶à)8«·–ç0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(É¡·8¬·–ç0
+>
+java:S2129"!Remove this "Integer" constructor(ú¸¨Ö8¬·–ç0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ïÍİˆ8¬·–ç0
+U	java:S106""9Replace this use of System.out or System.err by a logger.(¹§®8¬·–ç0
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(‘ş´¢8­·–ç0

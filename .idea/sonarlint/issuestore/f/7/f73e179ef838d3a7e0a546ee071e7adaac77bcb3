@@ -1,0 +1,19 @@
+
+L
+java:S1854"6Remove this useless assignment to local variable "lt".(èÈè
+L
+java:S1854"6Remove this useless assignment to local variable "ld".(¹·ùÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(îÆÓ¾ùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(£®öĞıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Å²×­
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸ÛÄ›ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûÙš
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ó¡³Áÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆõ«¹øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±«¨şıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“‹×
+=
+java:S1481"'Remove this unused "ld" local variable.(¹·ùÿ
+=
+java:S1481"'Remove this unused "lt" local variable.(èÈè
+S	java:S106("9Replace this use of System.out or System.err by a logger.(¸È‚èûÿÿÿÿ

@@ -1,0 +1,15 @@
+
+9
+java:S1643"Use a StringBuilder instead.(ñ¹òŽ8µïáÀç0
+u
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Þ­©å
+Q
+java:S1854";Remove this useless assignment to local variable "endtime".(òÐ‹ø
+S
+java:S1854"=Remove this useless assignment to local variable "starttime".(«šß®
+D
+java:S1481
+")Remove this unused "text" local variable.(‚ò¢„úÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(éË›Â8ÄÐÕÀç0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ýí÷Y8œ£ÝÀç0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(©ÎŽè8Ë³àÀç0

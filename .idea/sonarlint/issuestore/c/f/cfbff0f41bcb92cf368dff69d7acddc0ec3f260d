@@ -1,0 +1,13 @@
+
+S
+java:S1854"6Remove this useless assignment to local variable "v2".(€Ñ‘’8û£Ä—ç0
+S
+java:S1854"8Remove this useless assignment to local variable "name".(Âñ‰öýÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "name".(ïŸÂÊ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ß¶Ò
+?
+java:S1481")Remove this unused "name" local variable.(ïŸÂÊ
+D
+java:S1481"'Remove this unused "v2" local variable.(€Ñ‘’8ü£Ä—ç0
+]	java:S125"<This block of commented-out lines of code should be removed.(«®ùèùÿÿÿÿ8ü£Ä—ç0

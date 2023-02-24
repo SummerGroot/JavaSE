@@ -16,13 +16,13 @@ public class ListMethod {
         list.add("张三丰");
         list.add("贾宝玉");
         //在index=1的位置插入一个对象
-        list.add(1,"summer");
-        System.out.println("list" + list);
+        list.add(1, "summer");
+        System.out.println("list" + list);//list[张三丰, summer, 贾宝玉]
         //2. boolean addAll(int iondex,Collection eles)：从index位置开始将eles中的所有元素添加进来。
         List list2 = new ArrayList();
         list2.add("jack");
         list2.add("james");
-        list.addAll(1,list2);
+        list.addAll(1, list2);
         System.out.println("list" + list);//list[张三丰, jack, james, summer, 贾宝玉]
         //3. Object get(int index)：获取指定index位置的元素。
         //4. int indexOf(Object obj)：返回obj在当前集合中首次出现的位置。
@@ -37,7 +37,8 @@ public class ListMethod {
         list.set(1, "tom");
         System.out.println("list" + list);//list[张三丰, tom, james, summer, 贾宝玉]
         //8. List subList(int fromIndex,int toIndex)：返回从fromIndex到toIndex位置的子集合。
-        List list1 = list.subList(1, 3);
-
+        List list1 = list.subList(0, 2);
+        //返回的子集合 fromIndex<=sublist<toIndex
+        System.out.println("list1" + list1);
     }
 }

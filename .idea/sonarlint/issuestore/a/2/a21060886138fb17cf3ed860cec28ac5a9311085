@@ -1,0 +1,18 @@
+
+Q
+java:S4973"<Strings and Boxed types should be compared using "equals()".(³“·8
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(šËÂ¹
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¥Ìœ×
+<
+java:S2129"!Remove this "Integer" constructor(ôôöüÿÿÿÿ
+<
+java:S2129"!Remove this "Integer" constructor(î–’èıÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(³“·8
+V	java:S125"<This block of commented-out lines of code should be removed.(…ëÊıÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(šËÂ¹
+V	java:S125"<This block of commented-out lines of code should be removed.(ƒÙĞ¬şÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ã£Ø·úÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.( ˆîêÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥Ìœ×

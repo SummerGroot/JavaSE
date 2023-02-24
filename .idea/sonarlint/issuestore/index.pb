@@ -707,3 +707,9 @@ y
 IJavaBasic/src/com/basic/www/chapter14/collection_/CollectionExercise.java,1\9\1996cdcf7e2aaa1c630c7bf28cbf8ed634cf836c
 f
 6JavaBasic/src/com/basic/www/chapter14/list_/List_.java,3\1\31e15bdeab13673f3087e61af59e50881894e6c5
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+y
+IJavaBasic/src/com/basic/www/chapter14/collection_/CollectionIterator.java,a\2\a21470411fd9e8f85749c5cf0856a8affe92fb1d
+t
+DJavaBasic/src/com/basic/www/chapter14/collection_/CollectionFor.java,c\8\c89cf7a95b1ef84f574fe6b009ae9da8d91b856a
