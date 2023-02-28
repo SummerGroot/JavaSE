@@ -10,8 +10,10 @@ import java.util.ArrayList;
 public class ArrayListSource {
     @SuppressWarnings({"all"})
     public static void main(String[] args) {
+        //IDEA 默认情况下，Debug显示的数据是简化后的，如果希望看见完整的数据，需要设置
         //使用无参构造器创建ArrayList对象
-        ArrayList al = new ArrayList();
+        //ArrayList al = new ArrayList();
+        ArrayList al = new ArrayList(8);
         //使用for循环给al集合添加1-10数据
         for (int i = 0; i <= 10; i++) {
             al.add(i);

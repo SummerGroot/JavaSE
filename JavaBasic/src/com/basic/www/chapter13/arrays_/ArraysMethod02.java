@@ -19,9 +19,10 @@ public class ArraysMethod02 {
         System.out.println(Arrays.binarySearch(arr, 2));//1
         //copyOf
         /*
-         * 1、从arr数组中拷贝arr.length这么多个到newArr数组中
-         * 多的位置为0
-         * 少则拷贝前部分
+         * /1. 从 arr 数组中，拷贝 arr.length 个元素到 newArr 数组中
+            2. 如果拷贝的长度 > arr.length 就在新数组的后面 增加 null
+            3. 如果拷贝长度 < 0 就抛出异常 NegativeArraySizeException
+            4. 该方法的底层使用的是 System.arraycopy(
          * 如果拷贝长度<0就抛出异常  NegativeArraySizeException*/
         Integer[] newArr = Arrays.copyOf(arr, arr.length - 2);
         System.out.println("=====拷贝完后=====");
