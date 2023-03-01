@@ -719,3 +719,11 @@ p
 @JavaBasic/src/com/basic/www/chapter14/list_/ArrayListDetail.java,6\0\6070fb3c11b4297868f0a39ed6d02ce9cab98649
 o
 ?JavaBasic/src/com/basic/www/chapter14/list_/ListExercise02.java,6\e\6e44b555abf02f16256d5b6be9be9bf9aab2929d
+q
+AJavaBasic/src/com/basic/www/chapter13/arrays_/ArraysMethod02.java,8\4\8444e6c53580eccf5d3bcc2dff0d7fb0c7461244
+p
+@JavaBasic/src/com/basic/www/chapter14/list_/ArrayListSource.java,4\1\418b5ccacb5adcee4e944b7284855a215acc19a8
+h
+8JavaBasic/src/com/basic/www/chapter14/list_/Vector_.java,5\9\595e474497715c70b32e1d5d08c8347126066b97
+l
+<JavaBasic/src/com/basic/www/chapter14/list_/LinkedList_.java,3\0\3059e1b6a16af71dbcf4d721041adff29bdeab6d
