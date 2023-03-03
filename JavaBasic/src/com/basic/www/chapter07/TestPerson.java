@@ -10,7 +10,7 @@ public class TestPerson {
     public static void main(String[] args) {
         PersonT p1 = new PersonT("summer", 24);
         PersonT p2 = new PersonT("james", 37);
-        System.out.println("p1和p2比较的结果为：" + p1.compareTo(p2));
+        System.out.println("p1和p2比较的结果为：" + p1.compareTo(p2));//p1和p2比较的结果为：false
 
     }
 }

@@ -19,11 +19,11 @@ public class Polyparameter {
     }
 
     //实现获取任何员工对象的年工资，并在main方法中调用该方法
-    public void showEmpAnnual(Employee e) {
+    public void showEmpAnnual(Employee e) {//Employee e = new Worker
         System.out.println(e.getAnnual());
     }
 
-    public void testWork(Employee e) {
+    public void testWork(Employee e) {//Employee e = new Worker
         if (e instanceof Worker) {
             ((Worker) e).work(); //向下转型操作
         } else if (e instanceof Manager) {

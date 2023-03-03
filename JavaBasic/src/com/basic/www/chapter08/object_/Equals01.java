@@ -20,6 +20,7 @@ public class Equals01 {
         System.out.println(num1 == num2);//基本数据类型 true
 
         //equals方法，源码怎么查看
+        "hello".equals("123");
         System.out.println("hello".equals("123"));//false
 
         /*JDK String类的equals方法 源码
