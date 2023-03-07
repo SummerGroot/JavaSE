@@ -1,20 +1,22 @@
 
-W
-java:S4973C"<Strings and Boxed types should be compared using "equals()".(Ê¼‡ºýÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ðÄ»Á
-S	java:S106"9Replace this use of System.out or System.err by a logger.(æŸšÃøÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(´àÅ¤ùÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(¾ß‡«
-S	java:S106"9Replace this use of System.out or System.err by a logger.(â¶¼üÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(£Ø—Ë
-Q	java:S125"<This block of commented-out lines of code should be removed.(Ú¶±ª
-V	java:S1254"<This block of commented-out lines of code should be removed.(–úâüÿÿÿÿÿ
-Q	java:S125:"<This block of commented-out lines of code should be removed.(¹å¹ë
-<
-java:S2129A"!Remove this "Integer" constructor(à“£úÿÿÿÿ
-7
-java:S2129B"!Remove this "Integer" constructor(„Ä®Ü
-S	java:S106C"9Replace this use of System.out or System.err by a logger.(Ê¼‡ºýÿÿÿÿ
-Z	java:S106D"9Replace this use of System.out or System.err by a logger.(÷¤îøûÿÿÿÿ8úàò¢ç0
-]
-java:S2094J"BRemove this empty class, write its code or make it an "interface".(Ì‘ì–ÿÿÿÿÿ
+^
+java:S4973D"<Strings and Boxed types should be compared using "equals()".(Ê¼‡ºýÿÿÿÿ8´êî¯ê0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ðÄ»Á8¹êî¯ê0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æŸšÃøÿÿÿÿ8¹êî¯ê0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´àÅ¤ùÿÿÿÿ8¹êî¯ê0
+X	java:S125"<This block of commented-out lines of code should be removed.(¾ß‡«8¹êî¯ê0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(â¶¼üÿÿÿÿ8¹êî¯ê0
+G
+java:S2201"*The return value of "equals" must be used.(Î®ƒ8»êî¯ê0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£Ø—Ë8»êî¯ê0
+X	java:S125"<This block of commented-out lines of code should be removed.(Ú¶±ª8¼êî¯ê0
+]	java:S1255"<This block of commented-out lines of code should be removed.(–úâüÿÿÿÿÿ8¼êî¯ê0
+X	java:S125;"<This block of commented-out lines of code should be removed.(¹å¹ë8¼êî¯ê0
+C
+java:S2129B"!Remove this "Integer" constructor(à“£úÿÿÿÿ8¼êî¯ê0
+>
+java:S2129C"!Remove this "Integer" constructor(„Ä®Ü8¼êî¯ê0
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(Ê¼‡ºýÿÿÿÿ8¼êî¯ê0
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(÷¤îøûÿÿÿÿ8½êî¯ê0
+d
+java:S2094K"BRemove this empty class, write its code or make it an "interface".(Ì‘ì–ÿÿÿÿÿ8½êî¯ê0
