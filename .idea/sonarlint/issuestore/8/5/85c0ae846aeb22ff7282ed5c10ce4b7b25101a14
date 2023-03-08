@@ -1,0 +1,14 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "james" 5 times.(’’‰§üÿÿÿÿ8úÄğÒë0
+h
+java:S1192"KDefine a constant instead of duplicating this literal "properties" 3 times.(÷°ış8ûÄğÒë0
+i	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥ÊàÙ8ûÄğÒë0
+f
+java:S4143"DVerify this is the key that was intended; it was already set before.(õ¸½éüÿÿÿÿ8ÅğÒë0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(÷°ış8‚ÅğÒë0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(›şÒÎ8‚ÅğÒë0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûİ’Œ8ƒÅğÒë0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(÷°ış8ƒÅğÒë0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(÷°ış8ƒÅğÒë0
