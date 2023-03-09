@@ -765,3 +765,7 @@ u
 EJavaBasic/src/com/basic/www/chapter14/collections_/Collections02.java,d\1\d14c8288e24795a45dc87eff5de2d68cfa9e1912
 t
 DJavaBasic/src/com/basic/www/chapter14/collections_/Collections_.java,8\9\89553d355475e99a5152b33549dada95327c67f9
+l
+<JavaBasic/src/com/basic/www/chapter15/generic/Generic01.java,2\e\2e70f90ec359a46bcfccc05ec666c2eded040764
+t
+DJavaBasic/src/com/basic/www/chapter15/generic/improve/Generic02.java,0\d\0d2e6ea4519c741ae1111ba64c443900b66c6f11
