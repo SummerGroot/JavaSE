@@ -28,13 +28,13 @@ public class PolyArray {
             if (persons[i] instanceof Student) {
                 //判断persons[i]是不是Student
                 Student student = (Student) persons[i];//向下转型
-                student.say();
+                student.study();
                 //((Student) persons[i]).study();
             } else if (persons[i] instanceof Teacher) {
                 Teacher teacher = (Teacher) persons[i];//向下转型
                 teacher.teach();
             } else if (persons[i] instanceof Person) {
-
+                //System.out.println(persons[i].say());
             } else {
                 System.out.println("你的类型有误，请自己检查");
             }

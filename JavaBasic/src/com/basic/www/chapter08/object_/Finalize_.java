@@ -32,7 +32,7 @@ class Car {
     @Override
     //重写finalize
     protected void finalize() throws Throwable {
-        System.out.println("我们销毁汽车" + name);
+        System.out.println("我们销毁汽车:" + name);
         System.out.println("释放了某些资源");
     }
 }

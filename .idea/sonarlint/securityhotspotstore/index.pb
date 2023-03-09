@@ -21,12 +21,6 @@ f
 6JavaBasic/src/com/basic/www/chapter08/modifier_/A.java,d\6\d64b0761f7adf54aeeaeaeb3b9ca447c62f69906
 q
 AJavaBasic/src/com/basic/www/chapter08/encap_/Encapsulation01.java,f\0\f0f9bfbe57ab28a5303b331a9c9eb2d71366763d
-}
-MJavaBasic/src/com/basic/www/chapter08/poly_/polyparameter_/Polyparameter.java,c\7\c7ac8cf5d34b2694c3fa55f3f4e76f4da54cfb31
-v
-FJavaBasic/src/com/basic/www/chapter08/poly_/polyparameter_/Worker.java,5\b\5b41223724c1ad5a173bf1704a3fe453c89dafaa
-k
-;JavaBasic/src/com/basic/www/chapter08/object_/Equals01.java,a\3\a3f1c565f874a86fb9198ed96871870980989711
 s
 CJavaBasic/src/com/basic/www/chapter14/set_/LinkedHashSetSource.java,5\1\51208710b928adab9af078263bed5ff7137003ea
 u

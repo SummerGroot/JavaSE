@@ -10,11 +10,11 @@ public class DynamicBinding {
     public static void main(String[] args) {
         //a的编译类型A，运行类型B
         A a = new B();//向上转型
-        System.out.println(a.sum());
+        System.out.println(a.sum());//30
         //40 从B类开始查找sum方法
         //注销子类的sum
         //30
-        System.out.println(a.sum1());
+        System.out.println(a.sum1());//20
         //30 从B类开始查找sum方法
         //注销子类sum1
         //20

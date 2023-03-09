@@ -15,4 +15,7 @@ public class Cat extends Animal {
     public void catchMouse() {//猫特有方法
         System.out.println("猫抓老鼠");
     }
+    public void show(){
+        System.out.println("Cat类的show方法被调用");
+    }
 }
