@@ -16,7 +16,7 @@ public class Thread02 {
 
 
         Tiger tiget = new Tiger();
-        ThreadProxy threadProxy = new ThreadProxy(tiger);
+        ThreadProxy threadProxy = new ThreadProxy(tiget);
         threadProxy.start();
 
     }
