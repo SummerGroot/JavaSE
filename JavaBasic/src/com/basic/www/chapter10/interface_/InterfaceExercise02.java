@@ -26,7 +26,7 @@ class CE02 extends BE02 implements AE02 {
         //可以明确的指定 x
         //访问接口的 x 就使用 A.x
         //访问父类的 x 就使用 super.x
-        System.out.println(AE02.x + " " + super.x);
+        System.out.println(AE02.x + " " + super.x);//0 1
     }
 
     public static void main(String[] args) {

@@ -46,7 +46,7 @@ class Outer03 {//外部类
                 System.out.println("老虎在叫...");
             }
         };
-        System.out.println("tiger的运行类型=" + tiger.getClass());
+        System.out.println("tiger的运行类型=" + tiger.getClass());//class com.basic.www.chapter10.innerclass_.Outer03$1
         tiger.cry();
         tiger.cry();
         tiger.cry();
@@ -70,8 +70,8 @@ class Outer03 {//外部类
                 System.out.println("匿名内部类重写了test方法");
             }
         };
-        System.out.println("father的运行类型=" + father.getClass());//Outer03$2
-        father.test();
+        System.out.println("father的运行类型=" + father.getClass());//class com.basic.www.chapter10.innerclass_.Outer03$2
+        father.test();//匿名内部类重写了test方法
         /*
          * 基于抽象类的匿名内部类
          * */

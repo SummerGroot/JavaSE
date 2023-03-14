@@ -1,16 +1,0 @@
-
-R
-java:S1854"5Remove this useless assignment to local variable "a".(õ‡Ğ8•€öŸå0
-C
-java:S1481"&Remove this unused "a" local variable.(õ‡Ğ8—€öŸå0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(—Ÿ»±8Œ¿úŸå0
-{
-java:S1171!"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8±µá¡å0
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(»ø·ô8ŒûŸå0
-Z	java:S106("9Replace this use of System.out or System.err by a logger.(è°‘àıÿÿÿÿ8„¼Ş¡å0
-U	java:S106."9Replace this use of System.out or System.err by a logger.(åÂõ8¤Óá¡å0
-Z	java:S1064"9Replace this use of System.out or System.err by a logger.(·øøŸøÿÿÿÿ8Éßç¡å0
-C
-java:S1068"&Remove this unused "n2" private field.(Î½³8ì¹İ¡å0
-;
-java:S1068"&Remove this unused "n1" private field.(¨œî

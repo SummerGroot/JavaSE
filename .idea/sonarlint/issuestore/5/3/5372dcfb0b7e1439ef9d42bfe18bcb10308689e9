@@ -1,9 +1,9 @@
 
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¾¯Â
-N	java:S106"9Replace this use of System.out or System.err by a logger.(İ±›‚
-Z	java:S106("9Replace this use of System.out or System.err by a logger.(–ÁËüÿÿÿÿ8ğ®—èå0
-Z	java:S106*"9Replace this use of System.out or System.err by a logger.(õ±¥¼úÿÿÿÿ8Ç–™èå0
-t
-java:S11713"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
-X
-java:S20945"BRemove this empty class, write its code or make it an "interface".(æ¸òş
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¾¯Â8ş¶§Æí0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(İ±›‚8ÿ¶§Æí0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(Ó÷–¬şÿÿÿÿ8€·§Æí0
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(õ±¥¼úÿÿÿÿ8€·§Æí0
+{
+java:S11714"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8€·§Æí0
+_
+java:S20946"BRemove this empty class, write its code or make it an "interface".(æ¸òş8ÈÇ¸Æí0

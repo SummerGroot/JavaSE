@@ -10,7 +10,7 @@ public class StaticExeecise02 {
     public static void main(String[] args) {
         System.out.println("Number of total is:" + Person.getTotalPerson());//0
         Person p1 = new Person();//走构造器
-        System.out.println("Number of total is:" + Person.getTotalPerson());
+        System.out.println("Number of total is:" + Person.getTotalPerson());//1
     }
 }
 

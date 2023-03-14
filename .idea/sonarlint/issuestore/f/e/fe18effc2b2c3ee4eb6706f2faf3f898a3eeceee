@@ -1,20 +1,0 @@
-
-X
-java:S1854";Remove this useless assignment to local variable "moive01".(¶¹øÚ8±í‚øæ0
-]	java:S125"<This block of commented-out lines of code should be removed.(òÄê‘ÿÿÿÿÿ8±í‚øæ0
-I
-java:S1481",Remove this unused "moive01" local variable.(¶¹øÚ8±í‚øæ0
-{
-java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8²í‚øæ0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(û…ÂÖ8²í‚øæ0
-T	java:S106"9Replace this use of System.out or System.err by a logger.(Ï•‡g8³í‚øæ0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(³Û¶‹þÿÿÿÿ8³í‚øæ0
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(„ÕØý8³í‚øæ0
-T	java:S106("9Replace this use of System.out or System.err by a logger.(ˆÎ÷}8³í‚øæ0
-U	java:S106."9Replace this use of System.out or System.err by a logger.(ÎŽÞ«8´í‚øæ0
-E
-java:S1068"(Remove this unused "name" private field.(Ë¥¼8´í‚øæ0
-K
-java:S1068")Remove this unused "price" private field.(ËŒÑÎúÿÿÿÿ8´í‚øæ0
-I
-java:S1068",Remove this unused "director" private field.(£¤°¨8´í‚øæ0

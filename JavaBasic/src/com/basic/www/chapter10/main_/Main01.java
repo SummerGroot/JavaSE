@@ -24,12 +24,12 @@ public class Main01 {
 
     public static void main(String[] args) {
         //静态方法可以访问本类的静态成员
-        System.out.println("name" + Main01.name);
-        hi();
+        System.out.println("name=" + Main01.name);//name=summersdu
+        hi();//Main01的hi方法
         //静态方法mian无法访问本类的非静态
         Main01 main01 = new Main01();
-        System.out.println("n1=" + main01.n1);
-        main01.say();
+        System.out.println("n1=" + main01.n1);//n1=10000
+        main01.say();//非静态方法的say方法
 
     }
 }

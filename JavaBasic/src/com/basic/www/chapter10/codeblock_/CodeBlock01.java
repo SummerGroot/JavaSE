@@ -8,7 +8,7 @@ package com.basic.www.chapter10.codeblock_;
  */
 public class CodeBlock01 {
     public static void main(String[] args) {
-        //Moive moive = new Moive("你好，李焕英");
+        Moive moive = new Moive("你好，李焕英");
         Moive moive01 = new Moive("流浪地球2", 101);
     }
 }

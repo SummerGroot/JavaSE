@@ -9,7 +9,7 @@ package com.basic.www.chapter10.final_;
 public class FinalDetail01 {
     public static void main(String[] args) {
         CC cc = new CC();
-        new EE().cal();
+        new EE().cal();//cal方法
     }
 }
 

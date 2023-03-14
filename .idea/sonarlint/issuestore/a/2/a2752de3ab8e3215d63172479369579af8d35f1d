@@ -1,17 +1,0 @@
-
-R
-java:S1854"5Remove this useless assignment to local variable "a".(õ‡Ğ8·¾³Àå0
-T	java:S106"9Replace this use of System.out or System.err by a logger.(Ëòs8©…™Àå0
-X	java:S125"<This block of commented-out lines of code should be removed.(İö‚­8áÍÀå0
-C
-java:S1481"&Remove this unused "a" local variable.(õ‡Ğ8¸¾³Àå0
-d
-java:S2094"BRemove this empty class, write its code or make it an "interface".(§ÖëÚúÿÿÿÿ8¸¾³Àå0
-]
-java:S2094"BRemove this empty class, write its code or make it an "interface".(£ğ³éøÿÿÿÿ
-]	java:S125"<This block of commented-out lines of code should be removed.(Õöüûıÿÿÿÿ8¹¾³Àå0
-V	java:S125"<This block of commented-out lines of code should be removed.(Ù¡Öàùÿÿÿÿ
-V	java:S125""<This block of commented-out lines of code should be removed.(µ´Šìÿÿÿÿÿ
-h	java:S116("SRename this field "TAX_RATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş®ë
->
-java:S1170("!Make this final field static too.(Ş®ë8ÔÜÀå0

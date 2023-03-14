@@ -23,7 +23,7 @@ class Outer02 {//外部类
     }//私有方法
 
     public void m1() {//方法
-        //局部内部类是定义正在外部类的局部位置，通常在方法中。
+        //局部内部类是定义在外部类的局部位置，通常在方法中。
         //不能添加访问修饰符。但是可以使用final修饰符，
         //作用域：仅仅在定义它的方法或代码块中。
         /* final*/
@@ -37,7 +37,7 @@ class Outer02 {//外部类
                 //如果外部类和局部内部类的成员重名时，默认遵循就近原则，
                 //如果想访问外部类的成员，
                 //则可以使用（外部类名.this.成员）去访问。
-                System.out.println("n1：" + n1+"外部类n1="+Outer02.this.n1);
+                System.out.println("局部内部类n1：" + n1+"外部类n1="+Outer02.this.n1);//局部内部类n1：800外部类n1=100
                 //Outer02.this外部类的对象，即哪个对象调用了m1，Outer02.this就是哪个对象
                 System.out.println("Outer02.this hashCode()="+Outer02.this.hashCode());///Outer02.this hashCode()=460141958
                 m2();//Outer02
@@ -46,12 +46,12 @@ class Outer02 {//外部类
         //外部类在方法中，可以创建Inner02对象，然后调用方法。
         Inner02 inner02 = new Inner02();
         inner02.f1();
+
     }
 
     {
         //代码块
         class Inner03 {
-
         }
     }
 }

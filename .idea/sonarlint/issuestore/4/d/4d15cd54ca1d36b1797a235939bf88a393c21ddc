@@ -1,29 +1,0 @@
-
-q
-java:S1192"ODefine a constant instead of duplicating this literal "child01.count=" 3 times.(®ûôøÿÿÿÿ8Óôíä0
-n
-java:S1104&"QMake count a static final constant or non-public and provide accessors if needed.(˜“ÿ±8Óôíä0
-H
-java:S1444&"+Make this "public static count" field final(˜“ÿ±8Óôíä0
-G
-java:S1481"*Remove this unused "count" local variable.(æÕ¿¼8’Óôíä0
-W
-java:S2209"5Change this instance-reference to a static reference.(ˆÚâáıÿÿÿÿ8“Óôíä0
-X	java:S125"<This block of commented-out lines of code should be removed.(ó×ÎÜ8“Óôíä0
-R
-java:S2209"5Change this instance-reference to a static reference.(ô£Ì8“Óôíä0
-X	java:S125"<This block of commented-out lines of code should be removed.(ó×ÎÜ8“Óôíä0
-R
-java:S2209"5Change this instance-reference to a static reference.(˜Ôèë8“Óôíä0
-X	java:S125"<This block of commented-out lines of code should be removed.(ó×ÎÜ8“Óôíä0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(²—Ü øÿÿÿÿ8“Óôíä0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ûôøÿÿÿÿ8“Óôíä0
-W
-java:S2209"5Change this instance-reference to a static reference.(®ûôøÿÿÿÿ8“Óôíä0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(öŸ–æüÿÿÿÿ8“Óôíä0
-W
-java:S2209"5Change this instance-reference to a static reference.(öŸ–æüÿÿÿÿ8“Óôíä0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ğÓû¯8”Óôíä0
-R
-java:S2209"5Change this instance-reference to a static reference.(ğÓû¯8”Óôíä0
-T	java:S106-"9Replace this use of System.out or System.err by a logger.(¬˜÷W8•Óôíä0

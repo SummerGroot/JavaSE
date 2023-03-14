@@ -53,3 +53,15 @@ l
 <JavaBasic/src/com/basic/www/chapter15/generic/Generic01.java,2\e\2e70f90ec359a46bcfccc05ec666c2eded040764
 t
 DJavaBasic/src/com/basic/www/chapter15/generic/improve/Generic02.java,0\d\0d2e6ea4519c741ae1111ba64c443900b66c6f11
+w
+GJavaBasic/src/com/basic/www/chapter10/codeblock_/CodeBlockDetail03.java,8\8\8885c67fde9bf0dd7b40e422ba1f51937952aed3
+w
+GJavaBasic/src/com/basic/www/chapter10/interface_/InterfacePolyPass.java,0\7\07f2ef5d2345d01ab08393d1c5aefd43dada13bb
+y
+IJavaBasic/src/com/basic/www/chapter10/interface_/InterfaceExercise02.java,0\c\0c25eaf1f083539a8558b4a0b46df54cebde77d2
+v
+FJavaBasic/src/com/basic/www/chapter10/innerclass_/LocalInnerClass.java,5\3\5372dcfb0b7e1439ef9d42bfe18bcb10308689e9
+z
+JJavaBasic/src/com/basic/www/chapter10/innerclass_/AnonymousInnerClass.java,a\c\ac1adf6fe73eb090c6329f6deadfe825b417278f
+€
+PJavaBasic/src/com/basic/www/chapter10/innerclass_/AnonymousInnerClassDetail.java,a\6\a6744832813b19652e269e4e35c8c5470f4779e2
