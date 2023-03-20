@@ -77,3 +77,11 @@ a
 1JavaBasic/src/com/basic/www/chapter17/CpuNum.java,2\e\2ea77cc449a58f7a04e6565abb638de277dfcffe
 l
 <JavaBasic/src/com/basic/www/chapter17/ticket/SellTicket.java,f\f\ffc54cd4a828c5adab90d92a8cec269915857b61
+k
+;JavaBasic/src/com/basic/www/chapter17/exit_/ThreadExit.java,b\f\bfe82b6b2a115f9088319562cae4f71029e4098f
+p
+@JavaBasic/src/com/basic/www/chapter17/method/ThreadMethod01.java,c\c\cc1df2758dad26a1859ffbc9fb676d0cb6727f05
+p
+@JavaBasic/src/com/basic/www/chapter17/method/ThreadMethod02.java,a\2\a29f5788cc76cf8ff3ffb1c8288e456b04023129
+v
+FJavaBasic/src/com/basic/www/chapter17/method/ThreadMethodExercise.java,d\c\dc3a6e9c1b78962a190795944d518683f18ed136
