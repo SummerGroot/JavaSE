@@ -629,8 +629,6 @@ w
 GJavaBasic/src/com/basic/www/chapter14/collection_/CollectionMethod.java,f\1\f10ac6c702c2d6c7a083482ed2763fe42f239ec4
 y
 IJavaBasic/src/com/basic/www/chapter14/collection_/CollectionExercise.java,1\9\1996cdcf7e2aaa1c630c7bf28cbf8ed634cf836c
-S
-#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 y
 IJavaBasic/src/com/basic/www/chapter14/collection_/CollectionIterator.java,a\2\a21470411fd9e8f85749c5cf0856a8affe92fb1d
 t
@@ -731,8 +729,6 @@ m
 =JavaBasic/src/com/basic/www/chapter17/threaduse/Thread03.java,0\5\05bd990f8bfefcc31c32a701e31f537ac09dc1dc
 a
 1JavaBasic/src/com/basic/www/chapter17/CpuNum.java,2\e\2ea77cc449a58f7a04e6565abb638de277dfcffe
-l
-<JavaBasic/src/com/basic/www/chapter17/ticket/SellTicket.java,f\f\ffc54cd4a828c5adab90d92a8cec269915857b61
 k
 ;JavaBasic/src/com/basic/www/chapter17/exit_/ThreadExit.java,b\f\bfe82b6b2a115f9088319562cae4f71029e4098f
 p

@@ -48,13 +48,15 @@ class SellTicket01 extends Thread {
         }
     }
 }
+
 //实现接口的方式
 class SellTicket02 implements Runnable {
     private int ticketNum = 100;//让多个线程共享ticketNum
+
     @Override
     public void run() {
-        while(true){
-            if(ticketNum <= 0){
+        while (true) {
+            if (ticketNum <= 0) {
                 System.out.println("票已售罄,欢迎下次再来！！！");
                 break;
             }
@@ -68,3 +70,4 @@ class SellTicket02 implements Runnable {
         }
     }
 }
+
