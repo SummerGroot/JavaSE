@@ -725,15 +725,11 @@ m
 =JavaBasic/src/com/basic/www/chapter17/threaduse/Thread01.java,d\1\d189abb8fa2c3e960c6d67e663f433ec7264ebeb
 m
 =JavaBasic/src/com/basic/www/chapter17/threaduse/Thread02.java,3\a\3a13602044bab52d38d843d382a19a47aba58830
-m
-=JavaBasic/src/com/basic/www/chapter17/threaduse/Thread03.java,0\5\05bd990f8bfefcc31c32a701e31f537ac09dc1dc
 a
 1JavaBasic/src/com/basic/www/chapter17/CpuNum.java,2\e\2ea77cc449a58f7a04e6565abb638de277dfcffe
 k
 ;JavaBasic/src/com/basic/www/chapter17/exit_/ThreadExit.java,b\f\bfe82b6b2a115f9088319562cae4f71029e4098f
 p
-@JavaBasic/src/com/basic/www/chapter17/method/ThreadMethod01.java,c\c\cc1df2758dad26a1859ffbc9fb676d0cb6727f05
-p
 @JavaBasic/src/com/basic/www/chapter17/method/ThreadMethod02.java,a\2\a29f5788cc76cf8ff3ffb1c8288e456b04023129
-v
-FJavaBasic/src/com/basic/www/chapter17/method/ThreadMethodExercise.java,d\c\dc3a6e9c1b78962a190795944d518683f18ed136
+n
+>JavaBasic/src/com/basic/www/chapter15/homework/Homework01.java,d\a\dafd126432ccc3ac9a369737c6f5fa3497c514c1
