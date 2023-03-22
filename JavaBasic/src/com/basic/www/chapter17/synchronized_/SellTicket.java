@@ -1,5 +1,7 @@
 package com.basic.www.chapter17.synchronized_;
 
+import com.basic.www.chapter07.VarParameter01;
+
 /**
  * @Author: Summer Johnny
  * @version: java version 1.8
@@ -7,18 +9,6 @@ package com.basic.www.chapter17.synchronized_;
  */
 public class SellTicket {
     public static void main(String[] args) {
-        //测试
-        /*SellTicket01 sellTicket01 = new SellTicket01();
-        SellTicket01 sellTicket02 = new SellTicket01();
-        SellTicket01 sellTicket03 = new SellTicket01();
-        sellTicket01.start();//启动售票线程
-        sellTicket02.start();
-        sellTicket03.start();*/
-        System.out.println("===使用接口的方式来售票===");
-        /*SellTicket02 sellTicket02 = new SellTicket02();
-        new Thread(sellTicket02).start();//第1个线程
-        new Thread(sellTicket02).start();//第2个线程
-        new Thread(sellTicket02).start();//第3个线程*/
         SellTicket03 sellTicket03 = new SellTicket03();
         new Thread(sellTicket03).start();//第1个线程
         new Thread(sellTicket03).start();//第2个线程
@@ -32,65 +22,28 @@ public class SellTicket {
 class SellTicket03 implements Runnable {
     private int ticketNum = 100;//让多个线程共享ticketNum
     private boolean loop = true;//控制run方法变量
+    Object obj = new Object();
 
-    public synchronized void sell() {//同步方法，在同一个时刻只能一个线程来执行sell方法
-        if (ticketNum <= 0) {
-            System.out.println("票已售罄,欢迎下次再来！！！");
-            loop = false;
-            return;
-        }
-        //休眠50毫秒
-        try {
-            Thread.sleep(10);
-        } catch (InterruptedException e) {
-            throw new RuntimeException(e);
-        }
-        System.out.println("窗口\t" + Thread.currentThread().getName() + "售出一张票" + "\t剩余票数" + (--ticketNum));
+    //同步方法是静态的
+    /*
+    * 1、public synchronized static void m(){} 锁是加在SellTicket03.class
+    * 2、如果在静态方法中，实现一个同步代码块*/
+    public synchronized static void m(){
+
     }
-
-    @Override
-    public void run() {
-        while (loop) {
-            sell();//sell方法是一个同步方法
-        }
+    public static void m2(){
+        synchronized (SellTicket03.class){}
     }
-}
-
-//使用Thread方式
-class SellTicket01 extends Thread {
-    //模拟三个售票窗口100，分别使用Thread和实现Runnable方式
-    //使用多线程，模拟三个窗口同时售票100张
-    private static int ticketNum = 100;//让多个线程共享ticketNum
-
-    @Override
-    public void run() {
-        while (true) {
-            //三个线程同时进入就会出现超卖
-            if (ticketNum <= 0) {
-                System.out.println("票已售罄");
-                break;
-            }
-            //休眠50毫秒,模拟
-            try {
-                Thread.sleep(50);
-            } catch (InterruptedException e) {
-                throw new RuntimeException(e);
-            }
-            System.out.println("窗口\t" + Thread.currentThread().getName() + "售出一张票" + "\t剩余票数" + (--ticketNum));
-        }
-    }
-}
-
-//实现接口的方式
-class SellTicket02 implements Runnable {
-    private int ticketNum = 100;//让多个线程共享ticketNum
-
-    @Override
-    public void run() {
-        while (true) {
+    /*
+     * 1、public synchronized void sell() {}就是一个同步方法
+     * 2、这时锁在this对象
+     * 3、也可以在代码块上写synchronized 同步代码块，互斥锁还是在this对象*/
+    public /*synchronized*/ void sell() {//同步方法，在同一个时刻只能一个线程来执行sell方法
+        synchronized (/*this*/obj) {
             if (ticketNum <= 0) {
                 System.out.println("票已售罄,欢迎下次再来！！！");
-                break;
+                loop = false;
+                return;
             }
             //休眠50毫秒
             try {
@@ -101,5 +54,14 @@ class SellTicket02 implements Runnable {
             System.out.println("窗口\t" + Thread.currentThread().getName() + "售出一张票" + "\t剩余票数" + (--ticketNum));
         }
     }
+
+    @Override
+    public void run() {
+        while (loop) {
+            sell();//sell方法是一个同步方法
+        }
+    }
 }
+
+
 
