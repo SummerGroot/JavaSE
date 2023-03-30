@@ -1,0 +1,15 @@
+
+g	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼¬‡¼ğ0
+g	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8½¬‡¼ğ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(€üÚÚıÿÿÿÿ8•­‡¼ğ0
+]	java:S125"<This block of commented-out lines of code should be removed.(Ñ‘Ã¥şÿÿÿÿ8—­‡¼ğ0
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ƒ»ë¬8¥­‡¼ğ0
+{
+java:S2142,"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¦­‡¼ğ0
+T	java:S106/"9Replace this use of System.out or System.err by a logger.(“£«.8ª­‡¼ğ0
+R
+java:S2696/"6Make the enclosing method "static" or remove this set.(“£«.8ª­‡¼ğ0
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(éä¦›ûÿÿÿÿ8­­‡¼ğ0
+{
+java:S2142B"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8­­‡¼ğ0
+T	java:S106E"9Replace this use of System.out or System.err by a logger.(“£«.8­­‡¼ğ0

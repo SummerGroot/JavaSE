@@ -1,0 +1,12 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¦Ì€8–æÅğ0
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÈ¡ƒ8Ÿ–æÅğ0
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Û³·Æ8Ÿ–æÅğ0
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(ó€€şÿÿÿÿ8 –æÅğ0
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(¤ø®±8¥–æÅğ0
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(°šÛ³8¥–æÅğ0
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(“‹˜Ïøÿÿÿÿ8¦–æÅğ0
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(‡ÉÏÌ8¦–æÅğ0
+T
+java:S1128"2Remove this unused import 'sun.font.TrueTypeFont'.(ó€€şÿÿÿÿ8¦–æÅğ0
