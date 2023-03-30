@@ -1,0 +1,25 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜¾ç8‘Áêğ0
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ç•üûÿÿÿÿ8•Áêğ0
+p
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ë“«øÿÿÿÿ8–Áêğ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µƒÎ½şÿÿÿÿ8—Áêğ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­¥‡á8—Áêğ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ ¬8—Áêğ0
+c
+java:S1075&"ARefactor your code to get this URI from a customizable parameter.(óáø½şÿÿÿÿ8—Áêğ0
+>
+java:S1116'"Remove this empty statement.(Åñ­õşÿÿÿÿ8—Áêğ0
+p
+java:S4042*"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ë“«øÿÿÿÿ8˜Áêğ0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(µƒÎ½şÿÿÿÿ8˜Áêğ0
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(­¥‡á8˜Áêğ0
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(Ÿöş®øÿÿÿÿ8˜Áêğ0
+c
+java:S10757"ARefactor your code to get this URI from a customizable parameter.(Ø²ö¸ıÿÿÿÿ8˜Áêğ0
+>
+java:S11168"Remove this empty statement.(Åñ­õşÿÿÿÿ8˜Áêğ0
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(İ’““ıÿÿÿÿ8˜Áêğ0
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ÄŠÚğûÿÿÿÿ8˜Áêğ0
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(Ú¦Ü–8˜Áêğ0
