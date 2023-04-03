@@ -1,0 +1,18 @@
+
+g	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8€–‹ó0
+g	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8–‹ó0
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬æ8–‹ó0
+_
+java:S11632"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8–‹ó0
+V
+java:S11432"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8–‹ó0
+i
+java:S2259$"LA "NullPointerException" could be thrown; "bufferedReader" is nullable here.(©§şŠ8ˆ–‹ó0
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ªë¥8 –‹ó0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8¡–‹ó0
+X	java:S125%"<This block of commented-out lines of code should be removed.(–Ë§8¢–‹ó0
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¢–‹ó0
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8£–‹ó0
