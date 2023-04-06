@@ -1,0 +1,17 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ßÊÄ®ô0
+g	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8àÊÄ®ô0
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚ùh8àÊÄ®ô0
+_
+java:S1163$"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8àÊÄ®ô0
+V
+java:S1143$"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8àÊÄ®ô0
+]
+java:S2259""AA "NullPointerException" could be thrown; "oos" is nullable here.(İÛĞK8¼‘à®ô0
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(• î»8éÊÄ®ô0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Íİëúÿÿÿÿ8ìÊÄ®ô0
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ìÊÄ®ô0
+S
+java:S1128"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ8¶¦å²ô0

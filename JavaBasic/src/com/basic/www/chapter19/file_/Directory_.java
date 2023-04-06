@@ -12,14 +12,14 @@ import java.io.File;
  */
 public class Directory_ {
     public static void main(String[] args) {
-        //
+
     }
 
     //判断G:\Notes\Java\JavaNotes\file_\news01.txt是否存在，如果存在就删除
     @Test
     public void m1() {
         String filePath = "G:\\Notes\\Java\\JavaNotes\\file_\\news01.txt";
-        File file = new File(filePath);
+        File file = new File(filePath);//创建文件
         if (file.exists()) {
             if (file.delete()) {
                 System.out.println(filePath + "删除成功");
@@ -36,7 +36,6 @@ public class Directory_ {
     @Test
     public void m2() {
         String filePath = "G:\\Notes\\Java\\JavaNotes\\file_\\demo01";
-        ;
         File file = new File(filePath);
         if (file.exists()) {
             if (file.delete()) {
@@ -49,7 +48,7 @@ public class Directory_ {
         }
     }
 
-    //判断G:\Notes\Java\JavaNotes\file_\demo02目录是否存在，如果存在就提示已经存在，否则就创建
+    //判断G:\Notes\Java\JavaNotes\file_\demo02\deomo03目录是否存在，如果存在就提示已经存在，否则就创建
     @Test
     public void m3() {
         String directoryPath = "G:\\Notes\\Java\\JavaNotes\\file_\\demo01\\demo02\\demo03";

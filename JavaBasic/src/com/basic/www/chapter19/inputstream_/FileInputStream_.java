@@ -23,12 +23,13 @@ public class FileInputStream_ {
     * */
     @Test
     public void readFile01() {
-        String FilePath = "G:\\Notes\\Java\\JavaNotes\\file_\\hello.txt";//要读取文件的路径
+        String FilePath = "G:\\Notes\\Java\\JavaNotes\\file_\\hello.txt";//读取文件的路径
         int readData = 0;
         //扩大字符流的作用域
         FileInputStream fileInputStream = null;
         try {
             //创建FileInputStream对象，读取文件
+            //fileInputStream = new FileInputStream("G:\\Notes\\Java\\JavaNotes\\file_\\hello.txt");
             fileInputStream = new FileInputStream(FilePath);
             //从该输入流读取一个字节的数据。 如果没有输入可用，此方法将阻止
             //如果返回-1 表示读取完毕
@@ -53,7 +54,7 @@ public class FileInputStream_ {
         int readData = 0;
         //定义字节数组
         byte[] buf = new byte[8];//一次读取8个字节
-        int readLengeh = 0;
+        int readLengh = 0;
         //扩大字符流的作用域
         FileInputStream fileInputStream = null;
         try {
@@ -62,8 +63,9 @@ public class FileInputStream_ {
             //从该输入流读取最多b.length字节的数据到字节数组。 此方法将阻塞，直到某些输入可用。
             //如果返回-1，表示读取完毕
             //如果读取正常，返回实际读取的字节数
-            while ((readLengeh=fileInputStream.read(buf)) != -1) {
-                System.out.print(new String(buf,0,readLengeh));//显示
+            while ((readLengh=fileInputStream.read(buf)) != -1) {
+                //读了多少个字节，转换多少个
+                System.out.print(new String(buf,0,readLengh));//显示
             }
         } catch (IOException e) {
             throw new RuntimeException(e);

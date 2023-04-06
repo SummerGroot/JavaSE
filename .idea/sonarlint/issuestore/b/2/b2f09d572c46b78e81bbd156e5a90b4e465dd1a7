@@ -1,0 +1,8 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÎÓ“é8¼¤“±ô0
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(øÆˆ€8¿¤“±ô0
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ªÑ‚Œ8Á¤“±ô0
+]	java:S125"<This block of commented-out lines of code should be removed.(‘®Ê“üÿÿÿÿ8¥¶”±ô0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥úæ›8Â¤“±ô0

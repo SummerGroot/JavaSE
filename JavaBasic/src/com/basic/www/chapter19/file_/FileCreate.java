@@ -19,7 +19,7 @@ public class FileCreate {
     //方式1：new File(String pathname)//根据路径创建一个File对象
     @Test
     public void create01(){
-        String filePath = "G:\\Notes\\Java\\JavaNotes\\file_\\news01.txt";//设置路径
+        String filePath = "G:\\Notes\\Java\\JavaNotes\\file_\\news01.txt";//设置绝对路径
         File file = new File(filePath);//路径导入
         try {
             file.createNewFile();

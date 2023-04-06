@@ -1,0 +1,7 @@
+
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ¢ú,8™Ø³±ô0
+r
+java:S2095"PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(˜«¼×şÿÿÿÿ8›Ø³±ô0
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(âÇÁ8œØ³±ô0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÍ¤âùÿÿÿÿ8Ø³±ô0

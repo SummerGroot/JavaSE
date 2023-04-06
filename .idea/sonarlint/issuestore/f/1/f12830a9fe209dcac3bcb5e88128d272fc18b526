@@ -1,0 +1,12 @@
+
+j
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(๓๖แÞÿÿÿÿÿ8Þวฮณ๔0
+S
+java:S1854"6Remove this useless assignment to local variable "ip".(๕ํฦ๏8Þวฮณ๔0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ยคำ8เวฮณ๔0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ยใจ8เวฮณ๔0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ๅฉ๕๚ÿÿÿÿ8เวฮณ๔0
+D
+java:S1481"'Remove this unused "ip" local variable.(๕ํฦ๏8เวฮณ๔0
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(ท๎๙ÿÿÿÿ8เวฮณ๔0
