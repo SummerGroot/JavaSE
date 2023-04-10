@@ -22,8 +22,9 @@ public class Properties02 {
         //根据key获取val
         String user = properties.getProperty("user");
         String pwd = properties.getProperty("pwd");
-        System.out.println("用户名=" + user);
-        System.out.println("密码是=" + pwd);
+        System.out.println("用户名=" + user);//用户名=root
+        System.out.println("密码是=" + pwd);//密码是=12345
         String ip = properties.getProperty("ip");
+        System.out.println("ip="+ip);//ip=192.168.100.100
     }
 }

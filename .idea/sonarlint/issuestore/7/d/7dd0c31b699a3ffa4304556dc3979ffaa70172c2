@@ -1,0 +1,8 @@
+
+a
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(™¸ÿ8à¬Íõ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ô ø8 à¬Íõ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(šŠ×âşÿÿÿÿ8¢à¬Íõ0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ÕÙ«…øÿÿÿÿ8 ¡ÍÍõ0
+\
+java:S1128":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ8¢à¬Íõ0

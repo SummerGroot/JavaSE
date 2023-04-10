@@ -1,0 +1,10 @@
+
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ï­ÄŸ8Úºæ¯õ0
+l
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ìƒÅÍÿÿÿÿÿ8ßºæ¯õ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“üéüøÿÿÿÿ8áºæ¯õ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ø‹Ó÷ÿÿÿÿÿ8âºæ¯õ0
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(·¿¥8âºæ¯õ0
+V
+java:S1128"9Remove this unused import 'sun.java2d.pipe.SpanIterator'.(Ï­ÄŸ8®¥ö¯õ0

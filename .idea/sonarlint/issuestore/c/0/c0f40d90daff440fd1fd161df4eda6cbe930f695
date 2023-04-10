@@ -1,0 +1,10 @@
+
+n
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ª©–øÿÿÿÿÿ8ÀÈúÕõ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½ş±‚8ÂÈúÕõ0
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8ÃÈúÕõ0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(Áÿ”É8ÃÈúÕõ0
+q
+java:S1128"URemove this unused import 'com.sun.org.apache.xerces.internal.impl.XMLEntityHandler'.(÷Èœ%8Å­üÕõ0
+W
+java:S1128	"5Remove this unused import 'java.net.SocketException'.(¼„™€ûÿÿÿÿ8Å­üÕõ0
