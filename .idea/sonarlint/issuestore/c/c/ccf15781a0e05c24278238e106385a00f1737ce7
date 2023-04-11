@@ -1,0 +1,12 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(Òüà‹ÿÿÿÿÿ8ôš‘Ïö0
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(×Êá ùÿÿÿÿ8ûš‘Ïö0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚à8ò”“Ïö0
+]	java:S125"<This block of commented-out lines of code should be removed.(á•±ÿøÿÿÿÿ8Æø˜Ïö0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±í±8¤¢˜Ïö0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Õ„¥L8à»›Ïö0
+X	java:S125%"<This block of commented-out lines of code should be removed.(‰œÔÍ8À¸Ïö0
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8ÑÈÏö0
