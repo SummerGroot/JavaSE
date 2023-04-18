@@ -18,7 +18,7 @@ public class AutoConvertDetail {
         byte b1 = 10;
         int n2 = 1;//n2是int
         //byte b2 = n2;//错误，如果是变量赋值，判断类型
-        //char c1 =b1;//错误，byte不饿能自动转成char
+        //char c1 =b1;//错误，byte不能自动转成char
         //byte、short、char他们三者可以计算，在计算时首先转换为int类型
         byte b2 = 1;
         byte b3 = 2;

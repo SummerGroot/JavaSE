@@ -252,8 +252,6 @@ RJavaBasic/src/com/basic/www/chapter23/reflection_/question/ReflectionQuestion.j
 s
 CJavaBasic/src/com/basic/www/chapter23/reflection_/Reflection01.java,e\3\e31c6a62d205b4b01e26aed84e12b1e71148a53d
 s
-CJavaBasic/src/com/basic/www/chapter23/reflection_/Reflection02.java,8\1\81efcb4aa795b5dbf385a21738f3f9a167559261
-s
 CJavaBasic/src/com/basic/www/chapter23/reflection_/question/Cat.java,3\3\331785915dffddffce939c8799b49aacb57b4b7c
 e
 5JavaBasic/src/com/basic/www/chapter23/class_/Dog.java,4\f\4f5d6a871ff979dd3b9a0ef11d161d9ff5abe3b8
@@ -269,5 +267,11 @@ k
 ;JavaBasic/src/com/basic/www/chapter23/class_/GetClass_.java,d\3\d33ad39395ff05cbec8a0171bd60364413e7c7c9
 e
 5JavaBasic/src/com/basic/www/chapter02/ConverChar.java,5\b\5b0343f09bdd4026134f57e3348fde62a1ea8473
+p
+@JavaBasic/src/com/basic/www/chapter23/classload/ClassLoad01.java,3\7\3772decaee922192cecfd7aff0ab6c05a2bcd5ad
+p
+@JavaBasic/src/com/basic/www/chapter23/classload/ClassLoad02.java,5\3\531ceddd0f85e4f2ddd560b292f4de6676457e2d
 v
 FJavaBasic/src/com/basic/www/chapter23/reflection_/ReflectionUtils.java,d\0\d0fbde9fd2f26021d544bbf77689a44059d30931
+s
+CJavaBasic/src/com/basic/www/chapter23/reflection_/Reflection02.java,8\1\81efcb4aa795b5dbf385a21738f3f9a167559261

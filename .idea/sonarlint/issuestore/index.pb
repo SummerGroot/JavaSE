@@ -31,8 +31,6 @@ c
 3JavaBasic/src/com/basic/www/chapter05/IfTest02.java,1\9\19d217c85c6aff39e85fc153fc2d1e4ce6574c06
 _
 /JavaBasic/src/com/basic/www/chapter05/If02.java,1\c\1c0318f7601254ebadb4c6d044481e21dcdc1ac6
-_
-/JavaBasic/src/com/basic/www/chapter05/If03.java,3\0\3044484c57a99cd8749f8028633ffdbb4026501e
 e
 5JavaBasic/src/com/basic/www/chapter05/HomeWork06.java,d\7\d7c343032b172aa0a6572354f53a5f6f14356cca
 _
@@ -253,10 +251,6 @@ y
 IJavaBasic/src/com/basic/www/chapter10/codeblock_/CodeBlockExercise02.java,b\f\bf99b028bdbd6fbe45cd59b9e2f0c1b67174666f
 y
 IJavaBasic/src/com/basic/www/chapter10/codeblock_/CodeBlockExercise01.java,7\8\7863dfec9a386b91594a04587f2261711391bc41
-l
-<JavaBasic/src/com/basic/www/chapter03/AutoConvertDetail.java,a\3\a3a4f7cf5dfd9653a02cf1c56f250a82bf749e7e
-f
-6JavaBasic/src/com/basic/www/chapter03/AutoConvert.java,7\a\7a13e55843139e87879f2336dd0ce546c8600cba
 b
 2JavaBasic/src/com/basic/www/chapter03/Boolean.java,5\a\5a22bbfeff73c5f9cc9266651ee5aaba16b57e6f
 a
@@ -291,8 +285,6 @@ f
 6JavaBasic/src/com/basic/www/chapter03/FloatDetail.java,9\0\90ebf4739416e0d61caf3000158acfff1440b955
 d
 4JavaBasic/src/com/basic/www/chapter03/IntDetail.java,c\6\c6eb3dc586a4b08dc6e85e7714b8fb60b24b6cdd
-m
-=JavaBasic/src/com/basic/www/chapter04/ArithmeticOperator.java,2\0\2050116e234d2bda1cdd0f3e603bfcd37fefd963
 w
 GJavaBasic/src/com/basic/www/chapter04/ArithmeticOperatorExercise01.java,9\8\98ad6fd996df5088f63b3af45d7d8652cd789e31
 w
@@ -301,8 +293,6 @@ w
 GJavaBasic/src/com/basic/www/chapter04/ArithmeticOperatorExercise03.java,f\b\fb878a3a53b7e7eabf7edd2e115b29664c750944
 m
 =JavaBasic/src/com/basic/www/chapter04/RelationalOperator.java,9\b\9b3caebb5f118a3503ab8a9acca1c628003275d3
-j
-:JavaBasic/src/com/basic/www/chapter04/LogicOperator01.java,1\4\14926ebfa9460633ede75c773e1924bb570882cd
 a
 1JavaBasic/src/com/basic/www/chapter04/Test01.java,8\1\814d1b9a0d31e01c891fcc4577ed1d20a62a6a4f
 h
@@ -313,8 +303,6 @@ h
 8JavaBasic/src/com/basic/www/chapter04/BitOperator02.java,f\6\f67c4fe86a56e6935fdae4792a1ffaba86e0b582
 l
 <JavaBasic/src/com/basic/www/chapter03/string_/String_01.java,1\a\1ac268f3feb3b81c8e33febe438b5a439dae073f
-`
-0JavaBasic/src/com/basic/www/chapter04/Input.java,a\1\a140698562563e59d0197de1341eb66f6c38ce37
 c
 3JavaBasic/src/com/basic/www/chapter05/Switch01.java,2\3\23de5284e44f43563422a4c2408a3dfafefcebbb
 k
@@ -902,8 +890,6 @@ K
 ‚
 RJavaBasic/src/com/basic/www/chapter23/reflection_/question/ReflectionQuestion.java,c\c\ccf15781a0e05c24278238e106385a00f1737ce7
 s
-CJavaBasic/src/com/basic/www/chapter23/reflection_/Reflection02.java,8\1\81efcb4aa795b5dbf385a21738f3f9a167559261
-s
 CJavaBasic/src/com/basic/www/chapter23/reflection_/Reflection01.java,e\3\e31c6a62d205b4b01e26aed84e12b1e71148a53d
 s
 CJavaBasic/src/com/basic/www/chapter23/reflection_/question/Cat.java,3\3\331785915dffddffce939c8799b49aacb57b4b7c
@@ -921,5 +907,11 @@ e
 5JavaBasic/src/com/basic/www/chapter23/class_/Dog.java,4\f\4f5d6a871ff979dd3b9a0ef11d161d9ff5abe3b8
 e
 5JavaBasic/src/com/basic/www/chapter02/ConverChar.java,5\b\5b0343f09bdd4026134f57e3348fde62a1ea8473
+p
+@JavaBasic/src/com/basic/www/chapter23/classload/ClassLoad01.java,3\7\3772decaee922192cecfd7aff0ab6c05a2bcd5ad
+p
+@JavaBasic/src/com/basic/www/chapter23/classload/ClassLoad02.java,5\3\531ceddd0f85e4f2ddd560b292f4de6676457e2d
 v
 FJavaBasic/src/com/basic/www/chapter23/reflection_/ReflectionUtils.java,d\0\d0fbde9fd2f26021d544bbf77689a44059d30931
+s
+CJavaBasic/src/com/basic/www/chapter23/reflection_/Reflection02.java,8\1\81efcb4aa795b5dbf385a21738f3f9a167559261
