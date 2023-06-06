@@ -12,6 +12,7 @@ public class LocalInnerClass {
         Outer02 outer02 = new Outer02();
         outer02.m1();
         System.out.println("outer02 hashcode()="+outer02.hashCode());//Outer02.this hashCode()=460141958
+
     }
 }
 
@@ -37,7 +38,7 @@ class Outer02 {//外部类
                 //如果外部类和局部内部类的成员重名时，默认遵循就近原则，
                 //如果想访问外部类的成员，
                 //则可以使用（外部类名.this.成员）去访问。
-                System.out.println("局部内部类n1：" + n1+"外部类n1="+Outer02.this.n1);//局部内部类n1：800外部类n1=100
+                System.out.println("局部内部类n1=" + n1+"\n外部类n1="+Outer02.this.n1);//局部内部类n1：800外部类n1=100
                 //Outer02.this外部类的对象，即哪个对象调用了m1，Outer02.this就是哪个对象
                 System.out.println("Outer02.this hashCode()="+Outer02.this.hashCode());///Outer02.this hashCode()=460141958
                 m2();//Outer02
@@ -52,6 +53,13 @@ class Outer02 {//外部类
     {
         //代码块
         class Inner03 {
+            private int n1 = 100;
+            private  void f1(){
+                System.out.println("代码块种的内部类");
+            }
+            private void f2(){
+                System.out.println("局部内部类n1=" + n1+"\n外部类n1= "+Outer02.this.n1);
+            }
         }
     }
 }

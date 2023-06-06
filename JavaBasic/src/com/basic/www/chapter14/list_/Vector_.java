@@ -42,6 +42,7 @@ public class Vector_ {
         private void grow(int minCapacity) {
         // overflow-conscious code
         int oldCapacity = elementData.length;
+        * 两倍扩容
         int newCapacity = oldCapacity + ((capacityIncrement > 0) ?
                                          capacityIncrement : oldCapacity);
         if (newCapacity - minCapacity < 0)

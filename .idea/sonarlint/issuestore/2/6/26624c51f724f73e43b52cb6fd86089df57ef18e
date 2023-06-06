@@ -1,11 +1,11 @@
 
 E
 java:S3740"/Provide the parametrized type for this generic.(å¢›
+L
+java:S3740-"/Provide the parametrized type for this generic.(š€¥é8¢Ü·í‚1
 E
-java:S3740-"/Provide the parametrized type for this generic.(š€¥é
->
-java:S1604"(Make this anonymous inner class a lambda(å¢›
-P	java:S125"<This block of commented-out lines of code should be removed.(²Œ
-]	java:S125"<This block of commented-out lines of code should be removed.(½ÇØøÿÿÿÿ8±Â£Åç0
+java:S1604"(Make this anonymous inner class a lambda(å¢›8¢Ü·í‚1
+W	java:S125"<This block of commented-out lines of code should be removed.(²Œ8®Ü·í‚1
+]	java:S125"<This block of commented-out lines of code should be removed.(½ÇØøÿÿÿÿ8¯Ü·í‚1
 S	java:S106"9Replace this use of System.out or System.err by a logger.(ãëéÛüÿÿÿÿ
 N	java:S106"9Replace this use of System.out or System.err by a logger.(×Æáî

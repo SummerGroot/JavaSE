@@ -1,9 +1,13 @@
 
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¾¯Â8þ¶§Æí0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ý±›‚8ÿ¶§Æí0
-Z	java:S106("9Replace this use of System.out or System.err by a logger.(Ó÷–¬þÿÿÿÿ8€·§Æí0
-Z	java:S106*"9Replace this use of System.out or System.err by a logger.(õ±¥¼úÿÿÿÿ8€·§Æí0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¾¯Â8´îê›‚1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ý±›‚8µîê›‚1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(Øè½¿ûÿÿÿÿ8¶îê›‚1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(õ±¥¼úÿÿÿÿ8¶îê›‚1
 {
-java:S11714"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8€·§Æí0
-_
-java:S20946"BRemove this empty class, write its code or make it an "interface".(æ¸òþ8ÈÇ¸Æí0
+java:S11715"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8¶îê›‚1
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ù˜‰îúÿÿÿÿ8·îê›‚1
+U	java:S106="9Replace this use of System.out or System.err by a logger.(¯ýÜ»8·îê›‚1
+D
+java:S11449"'Remove this unused private "f1" method.(é¹º…8·îê›‚1
+I
+java:S1144<"'Remove this unused private "f2" method.(æâ«±üÿÿÿÿ8·îê›‚1

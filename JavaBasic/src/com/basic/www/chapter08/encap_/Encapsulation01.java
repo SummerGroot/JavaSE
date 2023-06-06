@@ -20,8 +20,8 @@ public class Encapsulation01 {
         p1.setAge(30);
         p1.setSalary(30000.0);
         System.out.println(p1.info());
-        Person p2 = new Person("james", 231, 24000);
         System.out.println("=======p2的信息=======");
+        Person p2 = new Person("james", 231, 24000);
         System.out.println(p2.info());
 
     }

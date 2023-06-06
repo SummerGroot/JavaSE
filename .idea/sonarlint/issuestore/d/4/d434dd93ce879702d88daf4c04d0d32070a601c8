@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ú“ÜÝ8ëÎ¹Ã÷0
+]	java:S125"<This block of commented-out lines of code should be removed.(É´“ýÿÿÿÿ8ìÎ¹Ã÷0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ïõõ	8íÎ¹Ã÷0
+N
+java:S3011$",This accessibility update should be removed.(ÔïÔÝøÿÿÿÿ8Ç¢½Ã÷0
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ˆþÅß8˜ºÃ÷0
+K
+java:S11443".Remove this unused private "User" constructor.(ä”³‘8îÎ¹Ã÷0

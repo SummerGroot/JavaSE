@@ -1,0 +1,17 @@
+
+`	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+X
+java:S2184"BCast one of the operands of this division operation to a "double".(Ïô›½
+N
+java:S3518"8Make sure "n2" can't be zero before doing this division.(Ïô›½
+M
+java:S1854"7Remove this useless assignment to local variable "res".(Ïô›½
+>
+java:S1481"(Remove this unused "res" local variable.(Ïô›½
+Q	java:S125)"<This block of commented-out lines of code should be removed.(·öé‹
+V	java:S1251"<This block of commented-out lines of code should be removed.(Ó“·âşÿÿÿÿ
+Q	java:S1253"<This block of commented-out lines of code should be removed.(‹ğ¿˜
+]
+java:S20946"BRemove this empty class, write its code or make it an "interface".(¥ïµİüÿÿÿÿ
+V	java:S1257"<This block of commented-out lines of code should be removed.(ÊÏÇÊşÿÿÿÿ
+V	java:S125@"<This block of commented-out lines of code should be removed.(¶§ıŒúÿÿÿÿ

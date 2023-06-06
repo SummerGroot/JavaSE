@@ -1,0 +1,16 @@
+
+c
+java:S1192"FDefine a constant instead of duplicating this literal "temp=" 6 times.(ûÍ‹¨8‡Ø·Ä‚1
+_
+java:S3518"CMake sure this expression can't be zero before doing this division.(›º<8‹Ø·Ä‚1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÒˆüÖşÿÿÿÿ8ŒØ·Ä‚1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ®ß­ıÿÿÿÿ8ŒØ·Ä‚1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡ù‚¨8ŒØ·Ä‚1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûÍ‹¨8Ø·Ä‚1
+B
+java:S1481"&Remove this unused "i" local variable.(›º<8ŒØ·Ä‚1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûÍ‹¨8Ø·Ä‚1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(üî…Ô8Ø·Ä‚1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ÂÍ•‚üÿÿÿÿ8Ø·Ä‚1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ô°Êÿÿÿÿÿ8ôÁ…Å‚1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ŸËŸ·úÿÿÿÿ8ü…Å‚1

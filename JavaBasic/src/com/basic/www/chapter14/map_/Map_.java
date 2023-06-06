@@ -20,6 +20,6 @@ public class Map_ {
         System.out.println(map.get("no1"));
         /*
         * 通过get方法，传入key，会返回对应的value*/
-        System.out.println("map" + map);
+        System.out.println("map=" + map);
     }
 }

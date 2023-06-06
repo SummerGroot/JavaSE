@@ -1,4 +1,6 @@
 
 X
 java:S2094"BRemove this empty class, write its code or make it an "interface".(Ã™ÄÏ
+Ì
+java:S6548"®An Enum-based Singleton implementation was detected. Make sure the use of the Singleton pattern is required and an Enum-based implementation is the right one for the context.(íÇ†§8õÂ¼‚1
 N	java:S106"9Replace this use of System.out or System.err by a logger.(Òç”ÿ

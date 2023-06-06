@@ -17,8 +17,8 @@ public class EnumMethod {
         //含有定义的所有枚举对象
         Season03[] values = Season03.values();
         //增强for循环
-        for (Season03 season03 : values) {
-            System.out.println(season03);
+        for (Season03 i : values) {
+            System.out.println(i);
         }
         //增强for循环
         /*System.out.println("======增强for循环======");
@@ -40,4 +40,7 @@ public class EnumMethod {
         //AUTUMN的编号-SPRING的编号====>2-0=2
 
     }
+}
+enum Season04{
+
 }

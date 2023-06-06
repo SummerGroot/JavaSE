@@ -20,8 +20,8 @@ public class Exception01 {
         //如果进行了异常处理，即使出现了异常，程序可以继续执行。
         try {
             int res = num1 / num2;
-        } catch (Exception e) {
-            //e.printStackTrace();
+        } catch (ArithmeticException e) {
+            // e.printStackTrace();
             System.out.println(e.getMessage());//输出异常信息
         }
         System.out.println("程序继续....");

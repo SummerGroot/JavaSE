@@ -24,10 +24,11 @@ public class ThrowsDetail {
         int n2 = 0;
         double res = n1 / n2;
     }
-    public static void f1() /*throws FileNotFoundException */{
+
+    public static void f1() /*throws FileNotFoundException */ {
         /*
-        * f3()方法抛出的是一个编译异常
-        * 这时，f1()必须处理这个编译异常*/
+         * f3()方法抛出的是一个编译异常
+         * 这时，f1()必须处理这个编译异常*/
         try {
             f3();
         } catch (FileNotFoundException e) {
@@ -35,14 +36,16 @@ public class ThrowsDetail {
         }
 
     }
+
     public static void f3() throws FileNotFoundException {
         //FileInputStream fis = new FileInputStream();
     }
-    public static void f4()  {
+
+    public static void f4() {
         /*
-        * f4()中调用f5()没问题
-        * f5()抛出的是运行异常，有默认处理机制
-        * java中并不要求程序员显示处理*/
+         * f4()中调用f5()没问题
+         * f5()抛出的是运行异常，有默认处理机制
+         * java中并不要求程序员显示处理*/
         //f5();
     }
     //public static void f5() throws ArithmeticException  {}

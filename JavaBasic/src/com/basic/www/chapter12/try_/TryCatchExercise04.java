@@ -1,5 +1,7 @@
 package com.basic.www.chapter12.try_;
 
+import org.junit.jupiter.api.Test;
+
 import java.util.Scanner;
 
 /**
@@ -30,5 +32,10 @@ public class TryCatchExercise04 {
             }
         }
         System.out.println("你输入的值是：" + num);
+    }
+    @Test
+    public void f1(){
+        String name = null;
+        System.out.println(name.length());
     }
 }

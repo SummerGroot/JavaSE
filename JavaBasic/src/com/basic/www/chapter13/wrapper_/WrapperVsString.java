@@ -10,9 +10,11 @@ public class WrapperVsString {
         //包装类(Integer)-->String
         Integer i = 100;//自动装箱
         //方式1
-        String str1 = i + "";//100+"="100"
+        String str1 = i + "";
+        System.out.println("str1 = "+str1);//str1 = 100
         //方式2
         String str2 = i.toString();
+        System.out.println("str2 = "+str2);
         //方式3
         String str3 = String.valueOf(i);
         //String-->Integer

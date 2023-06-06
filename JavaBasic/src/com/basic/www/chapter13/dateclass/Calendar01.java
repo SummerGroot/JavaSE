@@ -21,7 +21,7 @@ public class Calendar01 {
         //获取日历对象的某个日历字段
         System.out.println("年：" + c.get(Calendar.YEAR));
         //Calendar返回月时，是按照0开始编号的
-        System.out.println("月：" + c.get(Calendar.MONTH) + 1);
+        System.out.println("月：" + (c.get(Calendar.MONTH) + 1));
         System.out.println("日：" + c.get(Calendar.DAY_OF_MONTH));
         System.out.println("小时：" + c.get(Calendar.HOUR));
         System.out.println("分钟：" + c.get(Calendar.MINUTE));

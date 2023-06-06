@@ -1,0 +1,14 @@
+
+_
+java:S3518#"CMake sure this expression can't be zero before doing this division.(õ∫ù<8¨ß˝ƒÇ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ûﬁ¬≈8⁄éÙƒÇ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÆﬂ≠˝ˇˇˇˇ8⁄éÙƒÇ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(∞•Àê˝ˇˇˇˇ8⁄éÙƒÇ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷»Åü˝ˇˇˇˇ8Æß˝ƒÇ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ï≠ç¯˙ˇˇˇˇ8Øß˝ƒÇ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ëó∆ó8Øß˝ƒÇ1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(÷»Åü˝ˇˇˇˇ8†Í˛ƒÇ1
+B
+java:S1481#"&Remove this unused "i" local variable.(õ∫ù<8Æß˝ƒÇ1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(÷»Åü˝ˇˇˇˇ8†Í˛ƒÇ1
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ëó∆ó8†Í˛ƒÇ1

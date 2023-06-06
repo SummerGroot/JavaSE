@@ -17,13 +17,13 @@ public class MapFor {
         map.put(null, "刘亦菲");
         map.put("me", "迪丽热巴");
         //取出所有的key，通过key，取出对应的value
-        System.out.println("第一种方式");
+        System.out.println("===第一种方式===");
         Set keyset = map.keySet();
         for (Object key : keyset) {
             System.out.println(key + "-" + map.get(key));
         }
         //迭代器
-        System.out.println("第二种方式");
+        System.out.println("===第二种方式===");
         Iterator iterator = keyset.iterator();
         while (iterator.hasNext()) {
             Object key = iterator.next();

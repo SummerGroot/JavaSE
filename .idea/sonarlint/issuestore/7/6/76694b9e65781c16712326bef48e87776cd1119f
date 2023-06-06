@@ -6,8 +6,6 @@ java:S1854"5Remove this useless assignment to local variable "f".(ëçU8Æà•ç0
 W
 java:S1854
 "5Remove this useless assignment to local variable "d".(›¨Ê©ýÿÿÿÿ8Æà•ç0
-Z
-java:S1854"8Remove this useless assignment to local variable "obj1".(Æ­†áùÿÿÿÿ8É¹••ç0
 U
 java:S1854"8Remove this useless assignment to local variable "obj1".(¦Ø£8Æà•ç0
 Z
@@ -26,8 +24,7 @@ C
 java:S2129"!Remove this "Integer" constructor(Æ­†áùÿÿÿÿ8Èà•ç0
 B
 java:S2129" Remove this "Double" constructor(Æ­†áùÿÿÿÿ8Èà•ç0
-K
-java:S1481")Remove this unused "obj1" local variable.(Æ­†áùÿÿÿÿ8Ê¹••ç0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ö‡Úÿÿÿÿÿ8¯µÏÅ‚1
 K
 java:S1481")Remove this unused "obj2" local variable.(Ê¿“Ïüÿÿÿÿ8¼ˆ—•ç0
 >

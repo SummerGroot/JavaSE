@@ -17,4 +17,5 @@ public class BitOperator02 {
         int i = 66;
         System.out.println(++i + i);//134
     }
+
 }

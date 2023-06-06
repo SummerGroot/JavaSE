@@ -24,6 +24,7 @@ public class PolyDetail {
         animal.show();//你好!!!
         animal.sleep();//睡觉
         animal.run();//跑
+        System.out.println(animal.name);
 
         //可以调用Cat的 catchMouse
         //多态的向下转型

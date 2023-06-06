@@ -15,11 +15,6 @@ public class Test {
         System.out.println(dog);
         //com.basic.www.conpter08.conpter08_1.xiaoming.Dog@1b6d3586
         com.basic.www.chapter08.conpter08_1.xiaoqiang.Dog dog1 = new com.basic.www.chapter08.conpter08_1.xiaoqiang.Dog();
-
-
-
         System.out.println(Math.abs(-10));
-
-
     }
 }

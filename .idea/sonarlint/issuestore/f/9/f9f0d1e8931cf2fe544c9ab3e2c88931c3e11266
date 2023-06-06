@@ -1,19 +1,22 @@
 
-u
-java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-z
-java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Íœööÿÿÿÿÿ
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8ë€˜ë‚1
 
-java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ˆùĞÔúÿÿÿÿ8ŒÌ·¾ç0
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Íœööÿÿÿÿÿ8ë€˜ë‚1
+
+java:S1149$"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ˆùĞÔúÿÿÿÿ8ë€˜ë‚1
 Y
-java:S1854"7Remove this useless assignment to local variable "sb3".(ˆùĞÔúÿÿÿÿ8ŒÌ·¾ç0
-R
-java:S1854"7Remove this useless assignment to local variable "sb2".(Íœööÿÿÿÿÿ
-L
-java:S1854"6Remove this useless assignment to local variable "sb".(í…Ò‰
-=
-java:S1481"'Remove this unused "sb" local variable.(í…Ò‰
-C
-java:S1481"(Remove this unused "sb2" local variable.(Íœööÿÿÿÿÿ
+java:S1854$"7Remove this useless assignment to local variable "sb3".(ˆùĞÔúÿÿÿÿ8ì€˜ë‚1
+Y
+java:S1854"7Remove this useless assignment to local variable "sb2".(Íœööÿÿÿÿÿ8ì€˜ë‚1
+S
+java:S1854"6Remove this useless assignment to local variable "sb".(í…Ò‰8ì€˜ë‚1
+D
+java:S1481"'Remove this unused "sb" local variable.(í…Ò‰8í€˜ë‚1
+]	java:S125"<This block of commented-out lines of code should be removed.(Œ„õëüÿÿÿÿ8í€˜ë‚1
 J
-java:S1481"(Remove this unused "sb3" local variable.(ˆùĞÔúÿÿÿÿ8‘õ·¾ç0
+java:S1481"(Remove this unused "sb2" local variable.(Íœööÿÿÿÿÿ8î€˜ë‚1
+X	java:S125"<This block of commented-out lines of code should be removed.(–»Ÿ´8î€˜ë‚1
+J
+java:S1481$"(Remove this unused "sb3" local variable.(ˆùĞÔúÿÿÿÿ8î€˜ë‚1
+X	java:S125&"<This block of commented-out lines of code should be removed.(Ó÷¦8î€˜ë‚1

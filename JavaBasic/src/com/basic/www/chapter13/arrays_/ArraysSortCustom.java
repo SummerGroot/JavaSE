@@ -11,7 +11,7 @@ import java.util.Comparator;
 public class ArraysSortCustom {
     public static void main(String[] args) {
         int[] arr = {1, -1, 8, 0, 20};
-        //bubbleSort01(arr);
+        // bubbleSort01(arr);
         bubbleSort02(arr, new Comparator() {
             @Override
             public int compare(Object o1, Object o2) {

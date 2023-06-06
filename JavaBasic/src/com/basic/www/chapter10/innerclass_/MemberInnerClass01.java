@@ -16,7 +16,10 @@ public class MemberInnerClass01 {
         Outer05.Inner05 inner05 = outer05.new Inner05();
         /*2、在外部类中编写一个方法，可以返回 Inner05对象*/
         Outer05.Inner05 inner051 = outer05.getInner05();
+        System.out.println("===========");
         inner051.say();
+        /*System.out.println(inner05.hashCode());
+        System.out.println(inner051.hashCode());*/
     }
 }
 
@@ -44,7 +47,7 @@ class Outer05 {//外部类
         //外部类使用内部类，创建内部类的对象，然后调用。
         Inner05 inner05 = new Inner05();
         inner05.say();
-        System.out.println(inner05.n2);
+        System.out.println("内部类n2="+inner05.n2);
     }
 
     private void hi() {

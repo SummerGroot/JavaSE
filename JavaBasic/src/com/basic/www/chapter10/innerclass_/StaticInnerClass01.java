@@ -19,6 +19,7 @@ public class StaticInnerClass01 {
         System.out.println("=========");
         inner061.say();
         Outer06.Inner06 inner06_ = Outer06.getInner06_();
+        System.out.println("=========");
         inner06_.say();
     }
 }
@@ -41,7 +42,7 @@ class Outer06 {
         private static String name = "james";
 
         public void say() {
-            System.out.println(name + "外部类的name=" + Outer06.name);
+            System.out.println("内部类 name ="+name + "\n外部类的name=" + Outer06.name);
             f1();
         }
     }

@@ -4,4 +4,4 @@ java:S1854"8Remove this useless assignment to local variable "dog1".(¦æÎÜüÿÿÿÿ
 S	java:S106"9Replace this use of System.out or System.err by a logger.(Ô‚ˆ®øÿÿÿÿ
 D
 java:S1481")Remove this unused "dog1" local variable.(¦æÎÜüÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(í¡ĞÒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(í¡ĞÒ

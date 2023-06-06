@@ -17,7 +17,7 @@ public class LocalDate01 {
         LocalDateTime ldt = LocalDateTime.now();
         //LocalDate.now();
         //LocalTime.now();
-        System.out.println(ldt);
+        System.out.println(ldt);//2023-05-18T16:02:32.356
 
         System.out.println("年=" + ldt.getYear());
         System.out.println("月=" + ldt.getMonthValue());

@@ -24,9 +24,6 @@ public class SetMethod {
         set.add("jack");
         set.add(null);
         set.add(null);
-        /*for (int i = 0; i < 10; i++) {
-            System.out.println("set=" + set);
-        }*/
         System.out.println("set=" + set);
         //遍历
         //1、迭代器

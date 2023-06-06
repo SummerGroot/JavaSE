@@ -16,7 +16,8 @@ public class SingleTon01 {
         System.out.println(gf02);//Girlfeiend{name='summer'}
 
         System.out.println(gf01 == gf02);//true
-        //System.out.println(Girlfriend.n);
+        // System.out.println(Girlfriend.n);
+
     }
 }
 
@@ -26,6 +27,7 @@ class Girlfriend {
     public static int n = 100;
     //为了能够在静态方法种，返回gf对象，需要将其修饰改为static
     //通常是重量级对象，饿汉式可能造成创建了对象，但是没有使用。
+    //2、类的内部创建。(该对象是static)
     private static Girlfriend gf = new Girlfriend("summer");
 
     //如何保障我们只能创建一个GirlFriend
@@ -35,7 +37,6 @@ class Girlfriend {
         this.name = name;
     }
 
-    //2、类的内部创建。(该对象是static)
     //3、提供一个公共的静态方法
     public static Girlfriend getInstance() {
         return gf;
@@ -43,8 +44,6 @@ class Girlfriend {
 
     @Override
     public String toString() {
-        return "Girlfriend{" +
-                "name='" + name + '\'' +
-                '}';
+        return "Girlfriend{" + "name='" + name + '\'' + '}';
     }
 }

@@ -8,7 +8,7 @@ package com.basic.www.chapter10.innerclass_;
  */
 public class InnerClassExercise01 {
     public static void main(String[] args) {
-        //匿名内部类当作实参直接传递。
+        //匿名内部类当作实参直接传递
         f1(new IC(){
             @Override
             public void show() {

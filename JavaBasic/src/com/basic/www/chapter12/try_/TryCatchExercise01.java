@@ -21,7 +21,7 @@ class Exception01 {
             } else {
                 names[3] = "summer";
             }
-            //System.out.println(names[3]);
+            // System.out.println(names[3]);
             return 1;
         } catch (ArrayIndexOutOfBoundsException e) {
             return 2;

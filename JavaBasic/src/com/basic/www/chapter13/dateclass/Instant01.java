@@ -13,7 +13,7 @@ public class Instant01 {
         /*
         * 通过静态方法now()获取当前时间戳的对象*/
         Instant now = Instant.now();
-        System.out.println(now);
+        System.out.println(now);//2023-05-18T08:04:58.884Z
         /*
          *通过from可以把Instant转成Date */
         Date date = Date.from(now);

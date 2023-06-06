@@ -1,5 +1,6 @@
 package com.basic.www.chapter14.list_;
 
+import java.util.Iterator;
 import java.util.LinkedList;
 
 /**
@@ -14,10 +15,32 @@ public class LinkedListCRUD {
         ll.add(2);
         ll.add(3);
         System.out.println("ll=" + ll);
-
         //删除节点
         ll.remove();//默认删除第一个节点
         System.out.println("ll=" + ll);
+        //修改某个节点对象
+        ll.set(1, 999);
+        System.out.println("修改后的ll=" + ll);
+        //得到某个节点对象
+        System.out.println("得到第一个对象=" + ll.get(1));
+        //因为linkedlist 也实现了list ，遍历方式
+        System.out.println("迭代器遍历");
+        Iterator iterator = ll.iterator();
+        while (iterator.hasNext()) {
+            Object next = iterator.next();
+            System.out.println("next=" + next);
+
+        }
+        //增强for
+        System.out.println("增强for遍历");
+        for (Object obj : ll) {
+            System.out.println("next=" + obj);
+        }
+        //普通for遍历
+        System.out.println("普通for遍历");
+        for (int i = 0; i < ll.size(); i++) {
+            System.out.println("next=" + ll.get(i));
+        }
         /*
         1、LinkedList ll = new LinkedList();
         public LinkedList() {}

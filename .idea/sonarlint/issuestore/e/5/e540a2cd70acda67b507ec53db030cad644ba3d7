@@ -1,17 +1,0 @@
-
-]
-java:S1192%"GDefine a constant instead of duplicating this literal "hello1" 4 times.(àÅãğ
-t
-java:S1488 "YImmediately return this expression instead of assigning it to the temporary variable "n".(…¾“ìøÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(µÃ‹íüÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ı°Ââûÿÿÿÿ
-Q
-java:S1854"6Remove this useless assignment to local variable "d1".(ªÌ©øÿÿÿÿÿ
-B
-java:S1481"'Remove this unused "d1" local variable.(ªÌ©øÿÿÿÿÿ
-1
-java:S3626)"Remove this redundant jump.(ûÁİ…
-N	java:S106%"9Replace this use of System.out or System.err by a logger.(àÅãğ
-N	java:S106&"9Replace this use of System.out or System.err by a logger.(àÅãğ
-N	java:S106'"9Replace this use of System.out or System.err by a logger.(àÅãğ
-N	java:S106("9Replace this use of System.out or System.err by a logger.(àÅãğ

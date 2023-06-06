@@ -23,7 +23,7 @@ public class HashSetStrcture {
         jack.next = rose;//将rose节点挂在到jack
         Node lucy = new Node("lucy", null);
         table[3] = lucy;//把lucy放到table表的索引为3的位置
-        System.out.println("table" + table);
+        System.out.println("table=" + table);
     }
 }
 

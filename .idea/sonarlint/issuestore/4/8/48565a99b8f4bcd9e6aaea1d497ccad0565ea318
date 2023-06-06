@@ -1,0 +1,16 @@
+
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(½ãàÕşÿÿÿÿ
+Y
+java:S1854"7Remove this useless assignment to local variable "bmw".(ˆïÚåúÿÿÿÿ8¹ş’‚1
+M
+java:S1854"7Remove this useless assignment to local variable "bmw".(ÄˆŸà
+E
+java:S1481"(Remove this unused "bmw" local variable.(ÄˆŸà8ºş’‚1
+q
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8ºş’‚1
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªëøÿÿÿÿ
+O
+java:S1113""-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ8¯äÿ’‚1
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(­Úè8°äÿ’‚1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(„Ö‘ğşÿÿÿÿ8°äÿ’‚1

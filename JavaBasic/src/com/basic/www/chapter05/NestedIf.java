@@ -11,12 +11,11 @@ import java.util.Scanner;
 public class NestedIf {
     public static void main(String[] args) {
         //输入成绩和性别
-
         Scanner scan = new Scanner(System.in);
         System.out.println("请输入成绩:");
         double score = scan.nextDouble();
         System.out.println("请输入性别:");
-        char gender = scan.next().charAt(0);//先接受一个字符串，再接受字符串的第一个字符
+        char gender = scan.next().charAt(0);//先接收一个字符串，再接收字符串的第一个字符
         if(score>8.0){
             if(gender == '男'){
                 System.out.println("恭喜进入男子决赛");

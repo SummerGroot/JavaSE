@@ -1,0 +1,15 @@
+
+l
+java:S1104%"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8Õ§¾Ä÷0
+I
+java:S3011",This accessibility update should be removed.(Ó«ÀÔ8Û§¾Ä÷0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(„Õ³N8Û§¾Ä÷0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³î·Ãşÿÿÿÿ8Û§¾Ä÷0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(£Šöâúÿÿÿÿ8Û§¾Ä÷0
+
+java:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(èèóç8Û§¾Ä÷0
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(Ùª8Ü§¾Ä÷0
+J
+java:S1068&"(Remove this unused "name" private field.(†œİÑüÿÿÿÿ8İ§¾Ä÷0
+E
+java:S1144+"(Remove this unused private "say" method.(‰¿ˆÌ8İ§¾Ä÷0

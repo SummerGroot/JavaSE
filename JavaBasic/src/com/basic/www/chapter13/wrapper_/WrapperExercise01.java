@@ -10,7 +10,7 @@ public class WrapperExercise01 {
         Double d = 100d;//自动装箱 Double.valueOf(100d);
         Float f = 1.5f;//自动装箱Float.valueOf(1.5f);
         Object obj1 = true ? new Integer(1) : new Double(2.0);//精度为double(是一个整体)
-        //System.out.println(obj1);//1.0
+        System.out.println(obj1);//1.0
         Object obj2;
         if (true) {
             obj1 = new Integer(1);

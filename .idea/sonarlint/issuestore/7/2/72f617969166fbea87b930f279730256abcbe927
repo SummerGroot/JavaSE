@@ -1,0 +1,10 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Âê™Õ8‚¤ÕÂ‚1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²›‚–ùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ˆ¤ÕÂ‚1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¼ß™´8®¹ÖÂ‚1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ıã ûÿÿÿÿ8¯¹ÖÂ‚1
+8
+java:S3626$"Remove this redundant jump.(ûÁİ…8®¹ÖÂ‚1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(–ı¾¨8À ØÂ‚1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ƒÆç8¶±áÂ‚1

@@ -1,0 +1,13 @@
+
+e
+java:S2166	"CRename this class to remove "Exception" or correct its inheritance.(â‡Üÿøÿÿÿÿ8´×é¿‚1
+R
+java:S1854"6Remove this useless assignment to local variable "c1".(Îáê8ÿãí¿‚1
+X
+java:S1854"6Remove this useless assignment to local variable "b1".(Ú‚Éıÿÿÿÿ8¾Ší¿‚1
+I
+java:S1481"'Remove this unused "b1" local variable.(Ú‚Éıÿÿÿÿ8¿Ší¿‚1
+C
+java:S1481"'Remove this unused "c1" local variable.(Îáê8€äí¿‚1
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ôçŒí8µ×é¿‚1

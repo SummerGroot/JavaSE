@@ -1,14 +1,23 @@
 
-a
-java:S1301,"KReplace this "switch" statement by "if" statements to increase readability.(”ŞÉ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ËáŒ©ıÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÈâŒõşÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÈâŒõşÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÈâŒõşÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÈâŒõşÿÿÿÿ
-S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÈâŒõşÿÿÿÿ
-N	java:S106#"9Replace this use of System.out or System.err by a logger.(¿áºÀ
-f	java:S128-"LEnd this switch case with an unconditional break, return or throw statement.(£Ş¾Ëşÿÿÿÿ
-7	java:S131,""Add a default case to this switch.(”ŞÉ
-N	java:S106."9Replace this use of System.out or System.err by a logger.(ş®õ´
-N	java:S1060"9Replace this use of System.out or System.err by a logger.(éÕ²Ş
+m	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÂÊ8ı¤ßû0
+X	java:S125"<This block of commented-out lines of code should be removed.(ïÕó”8ƒ¥ßû0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ËáŒ©ıÿÿÿÿ8„¥ßû0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÈâŒõşÿÿÿÿ8„¥ßû0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÈâŒõşÿÿÿÿ8„¥ßû0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ÈâŒõşÿÿÿÿ8„¥ßû0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ÈâŒõşÿÿÿÿ8…¥ßû0
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ÈâŒõşÿÿÿÿ8…¥ßû0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(¿áºÀ8…¥ßû0
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(¦Á÷ûşÿÿÿÿ8…¥ßû0
+C
+java:S19059"&Remove this unnecessary cast to "int".(”ŞÉ8…¥ßû0
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(ßµÉ‘8…¥ßû0
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(Õêã„8…¥ßû0
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(©¶×Ïÿÿÿÿÿ8…¥ßû0
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(ÛÈ«µúÿÿÿÿ8Êößû0
+m	java:S128Z"LEnd this switch case with an unconditional break, return or throw statement.(—Í×©øÿÿÿÿ8Œ¨äû0
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(ïÜ¿‹úÿÿÿÿ8¨äû0
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(ØšÔµıÿÿÿÿ8¨äû0
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(íœœ¥ûÿÿÿÿ8¨äû0
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(«¤“—8äóæû0
+T	java:S106b"9Replace this use of System.out or System.err by a logger.(Ó©¤|8Ã¡êû0

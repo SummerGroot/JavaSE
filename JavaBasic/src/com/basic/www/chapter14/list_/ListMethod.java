@@ -25,8 +25,9 @@ public class ListMethod {
         list.addAll(1, list2);
         System.out.println("list" + list);//list[张三丰, jack, james, summer, 贾宝玉]
         //3. Object get(int index)：获取指定index位置的元素。
+        System.out.println(list.get(0));//张三丰
         //4. int indexOf(Object obj)：返回obj在当前集合中首次出现的位置。
-        System.out.println(list.indexOf("jack"));//2
+        System.out.println(list.indexOf("jack"));//1
         //5. int lastIndexOf(Object obj)：返回obj在当前集合中末次出现的位置。
         list.add("jack");
         System.out.println(list.lastIndexOf("jack"));//5

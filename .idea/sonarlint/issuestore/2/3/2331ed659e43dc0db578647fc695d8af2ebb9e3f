@@ -1,0 +1,18 @@
+
+W
+java:S1143"5Remove this return statement from this finally block.(Ë„µµÿÿÿÿÿ8¦ÛõÄ‚1
+W
+java:S1143+"5Remove this return statement from this finally block.(Ë„µµÿÿÿÿÿ8¦ÛõÄ‚1
+_
+java:S3518$"CMake sure this expression can't be zero before doing this division.(›º<8Á“÷Ä‚1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Œ¢€˜8«ÛõÄ‚1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ®ß­ıÿÿÿÿ8«ÛõÄ‚1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(İÓêï8«ÛõÄ‚1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÈŸıÿÿÿÿ8¬ÛõÄ‚1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8¬ÛõÄ‚1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‘—Æ—8¬ÛõÄ‚1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ÖÈŸıÿÿÿÿ8¬ÛõÄ‚1
+B
+java:S1481$"&Remove this unused "i" local variable.(›º<8Å“÷Ä‚1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ÖÈŸıÿÿÿÿ8¬ÛõÄ‚1
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(‘—Æ—8¬ÛõÄ‚1

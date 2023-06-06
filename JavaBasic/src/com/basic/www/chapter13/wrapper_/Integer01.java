@@ -12,9 +12,21 @@ public class Integer01 {
         int n1 = 100;
         Integer integer = new Integer(n1);
         Integer integer1 = Integer.valueOf(n1);
+        /*
+        public static Integer valueOf(int i) {
+            if (i >= Integer.IntegerCache.low && i <= Integer.IntegerCache.high)
+                return Integer.IntegerCache.cache[i + (-Integer.IntegerCache.low)];
+            return new Integer(i);
+        }
+        */
         //手动拆箱
         //Integer->int
         int i = integer.intValue();
+        /*
+        public int intValue() {
+            return value;
+        }
+        */
         //jdk5后，就可以自动装箱和自动拆箱
         int n2 = 200;
         //自动装箱 int->Integer

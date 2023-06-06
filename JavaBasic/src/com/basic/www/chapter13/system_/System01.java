@@ -14,7 +14,7 @@ public class System01 {
         /*
          * 1、exit（0）表示程序退出
          * 2、0表示一个状态，正常的状态*/
-        //System.exit(0);
+        // System.exit(0);
         System.out.println("ok2");
 
         int[] src = {1, 2, 3, 4, 5, 6, 7};

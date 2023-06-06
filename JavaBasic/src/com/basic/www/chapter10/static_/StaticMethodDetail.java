@@ -26,7 +26,7 @@ class D {
         //静态方法，类方法
         //类方法中不允许使用和对象有关的关键字，
         //比如this和super。普通方法（成员方法）可以。
-        //System.out.println(this.n1);
+        // System.out.println(this.n1);
     }
 
     //类方法（静态方法）中，只能访问静态变量或静态方法

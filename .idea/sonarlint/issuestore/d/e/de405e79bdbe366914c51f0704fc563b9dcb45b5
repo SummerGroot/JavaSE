@@ -1,0 +1,14 @@
+
+f
+java:S1104H"PMake item a static final constant or non-public and provide accessors if needed.(Õç¯ã
+f
+java:S1104I"PMake next a static final constant or non-public and provide accessors if needed.(´èÝÒ
+f
+java:S1104J"PMake prev a static final constant or non-public and provide accessors if needed.(–ýòŽ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(òÝôÒ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(£ÃÁÙ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(Ý«±®
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(•â äþÿÿÿÿ
+V	java:S1252"<This block of commented-out lines of code should be removed.(ŽŒÑâûÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(°à“öûÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(£ÃÁÙ

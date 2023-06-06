@@ -1,21 +1,15 @@
 
 X
-java:S1854"6Remove this useless assignment to local variable "i2".(ñ¢°ùûÿÿÿÿ8£à©•ç0
+java:S1854"6Remove this useless assignment to local variable "i2".(ñ¢°ùûÿÿÿÿ8£à©•ç0
 X
-java:S1854"6Remove this useless assignment to local variable "i1".(Èòğ×şÿÿÿÿ8ğÀ§•ç0
+java:S1854"6Remove this useless assignment to local variable "i1".(Èòğ×şÿÿÿÿ8ğÀ§•ç0
 M
-java:S1854"8Remove this useless assignment to local variable "str3".(˜äÌ{
-N
-java:S1854"8Remove this useless assignment to local variable "str2".(ÒéÂÄ
-S
-java:S1854"8Remove this useless assignment to local variable "str1".(×’ÜÎúÿÿÿÿ
-D
-java:S1481")Remove this unused "str1" local variable.(×’ÜÎúÿÿÿÿ
-F
-java:S1481")Remove this unused "str2" local variable.(ÒéÂÄ8‰˜¥•ç0
+java:S1854"8Remove this useless assignment to local variable "str3".(˜äÌ{
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¤ä«›8¢Ü’Æ‚1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°Ì»¸úÿÿÿÿ8–Â¹ì‚1
 E
-java:S1481")Remove this unused "str3" local variable.(˜äÌ{8Š˜¥•ç0
+java:S1481")Remove this unused "str3" local variable.(˜äÌ{8Š˜¥•ç0
 I
-java:S1481"'Remove this unused "i1" local variable.(Èòğ×şÿÿÿÿ8òÀ§•ç0
+java:S1481"'Remove this unused "i1" local variable.(Èòğ×şÿÿÿÿ8òÀ§•ç0
 I
-java:S1481"'Remove this unused "i2" local variable.(ñ¢°ùûÿÿÿÿ8äõ©•ç0
+java:S1481"'Remove this unused "i2" local variable.(ñ¢°ùûÿÿÿÿ8äõ©•ç0

@@ -1,15 +1,17 @@
 
 S
-java:S1854"6Remove this useless assignment to local variable "n3".(Ş·ã¨8íò”ç0
+java:S1854$"6Remove this useless assignment to local variable "n3".(Ş·ã¨8æëÅ‚1
 R
-java:S1854"5Remove this useless assignment to local variable "i".(“Ã¿à8ş¾è”ç0
+java:S1854"5Remove this useless assignment to local variable "i".(“Ã¿à8çëÅ‚1
 ^
-java:S1854"<Remove this useless assignment to local variable "integer1".(…ğİñùÿÿÿÿ8ö¤å”ç0
+java:S1854"<Remove this useless assignment to local variable "integer1".(…ğİñùÿÿÿÿ8çëÅ‚1
 >
-java:S2129"!Remove this "Integer" constructor(¸·¢·8÷ã”ç0
+java:S2129"!Remove this "Integer" constructor(¸·¢·8çëÅ‚1
 O
-java:S1481"-Remove this unused "integer1" local variable.(…ğİñùÿÿÿÿ8÷¤å”ç0
+java:S1481"-Remove this unused "integer1" local variable.(…ğİñùÿÿÿÿ8çëÅ‚1
+]	java:S125"<This block of commented-out lines of code should be removed.(äÊ²Óıÿÿÿÿ8èëÅ‚1
 C
-java:S1481"&Remove this unused "i" local variable.(“Ã¿à8ÿ¾è”ç0
+java:S1481"&Remove this unused "i" local variable.(“Ã¿à8èëÅ‚1
+X	java:S125"<This block of commented-out lines of code should be removed.(‹ëÍ×8èëÅ‚1
 D
-java:S1481"'Remove this unused "n3" local variable.(Ş·ã¨8‚íò”ç0
+java:S1481$"'Remove this unused "n3" local variable.(Ş·ã¨8èëÅ‚1

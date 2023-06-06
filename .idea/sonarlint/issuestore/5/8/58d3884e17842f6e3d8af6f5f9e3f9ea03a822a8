@@ -1,15 +1,13 @@
 
+Q
+java:S3740L"/Provide the parametrized type for this generic.(—ûø·ûÿÿÿÿ8”‚Œì‚1
 J
-java:S3740I"/Provide the parametrized type for this generic.(—ûø·ûÿÿÿÿ
-C
-java:S1604I"(Make this anonymous inner class a lambda(—ûø·ûÿÿÿÿ
-W
-java:S1854"<Remove this useless assignment to local variable "integers".(Ò€ÓÚùÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(Õ†–÷úÿÿÿÿ
-H
-java:S1481"-Remove this unused "integers" local variable.(Ò€ÓÚùÿÿÿÿ
-P	java:S125"<This block of commented-out lines of code should be removed.(éÁÒl
-Q	java:S125"<This block of commented-out lines of code should be removed.(Øñïº
-Q	java:S125-"<This block of commented-out lines of code should be removed.(ÚÆ©
-N	java:S106Q"9Replace this use of System.out or System.err by a logger.(±áóØ
-N	java:S106R"9Replace this use of System.out or System.err by a logger.(×Æáî
+java:S1604L"(Make this anonymous inner class a lambda(—ûø·ûÿÿÿÿ8•‚Œì‚1
+]	java:S125"<This block of commented-out lines of code should be removed.(Õ†–÷úÿÿÿÿ8‘ýŒì‚1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(´µÑ8­Þ‡ì‚1
+W	java:S125"<This block of commented-out lines of code should be removed.(éÁÒl8ÀÒ†ì‚1
+X	java:S125"<This block of commented-out lines of code should be removed.(Û£ðè8—”ì‚1
+]	java:S1256"<This block of commented-out lines of code should be removed.(‡™´Äúÿÿÿÿ8íëðì‚1
+U	java:S106\"9Replace this use of System.out or System.err by a logger.(±áóØ8þÊ‹ì‚1
+]	java:S125V"<This block of commented-out lines of code should be removed.(ÂÅ Ëþÿÿÿÿ8Öþêì‚1
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(×Æáî8™”ì‚1

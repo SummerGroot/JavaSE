@@ -1,7 +1,5 @@
 package com.basic.www.chapter17.synchronized_;
 
-import com.basic.www.chapter07.VarParameter01;
-
 /**
  * @Author: Summer Johnny
  * @version: java version 1.8

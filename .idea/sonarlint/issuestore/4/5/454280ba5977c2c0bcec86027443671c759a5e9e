@@ -1,13 +1,15 @@
 
 e
-java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(ñ‚æ
-V
-java:S1854";Remove this useless assignment to local variable "inner05".(‰ù“àûÿÿÿÿ
-G
-java:S1481",Remove this unused "inner05" local variable.(‰ù“àûÿÿÿÿ
-N	java:S106$"9Replace this use of System.out or System.err by a logger.(ãÒûÜ
-N	java:S106&"9Replace this use of System.out or System.err by a logger.(ˆÂÏ–
-M	java:S106/"9Replace this use of System.out or System.err by a logger.(±ŠüK
-M	java:S1063"9Replace this use of System.out or System.err by a logger.(Ó÷îZ
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(ñ‚æ
+]
+java:S1854";Remove this useless assignment to local variable "inner05".(‰ù“àûÿÿÿÿ8‹êŒ‚1
+N
+java:S1481",Remove this unused "inner05" local variable.(‰ù“àûÿÿÿÿ8êŒ‚1
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ô‰×
+]	java:S125"<This block of commented-out lines of code should be removed.(ê“™±ıÿÿÿÿ8êŒ‚1
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(ãÒûÜ
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ˆÂÏ–8¡«Œ‚1
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(õ¨’”8¡«Œ‚1
+T	java:S1066"9Replace this use of System.out or System.err by a logger.(Ó÷îZ8ş¢‚1
 ;
-java:S33982" Move this method into "Inner05".(Å…àÿÿÿÿÿ
+java:S33985" Move this method into "Inner05".(Å…àÿÿÿÿÿ
