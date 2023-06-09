@@ -1,0 +1,13 @@
+
+K
+java:S1854"5Remove this useless assignment to local variable "o".(¡•ù™
+6
+java:S2129" Remove this "String" constructor(¡•ù™
+<
+java:S1481"&Remove this unused "o" local variable.(¡•ù™
+V	java:S125"<This block of commented-out lines of code should be removed.(³‡Óšùÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(‡¼¯õùÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(‡¼¯õùÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(‡¼¯õùÿÿÿÿ
+]
+java:S2094C"BRemove this empty class, write its code or make it an "interface".(ÃáÓÚüÿÿÿÿ

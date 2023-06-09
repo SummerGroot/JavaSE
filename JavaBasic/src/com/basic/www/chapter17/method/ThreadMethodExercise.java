@@ -15,7 +15,7 @@ public class ThreadMethodExercise {
         //创建子线程
         Thread t3 = new Thread(new T3());
         for (int i = 0; i < 10; i++) {
-            System.out.println(Thread.currentThread().getName() + i + "\t次hi");
+            System.out.println(Thread.currentThread().getName() + i +"次"+ "\thi");
             Thread.sleep(1000);
             if (i == 5) {
                 //主线程输出了5次hi，让子线程输出
@@ -33,7 +33,7 @@ class T3 implements Runnable {
     public void run() {
         //子线程输出10次hello
         for (int i = 0; i < 10; i++) {
-            System.out.println(Thread.currentThread().getName() + i + "\t次hello");
+            System.out.println(Thread.currentThread().getName() + i + "次" + "\thello");
             //休眠1秒
             try {
                 Thread.sleep(1000);

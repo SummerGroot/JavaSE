@@ -20,9 +20,10 @@ public class Properties_ {
         properties.put("lucy", 100);
         properties.put("james", 100);
         properties.put("james", 37);//替换
-        System.out.println("properties" + properties);
+        System.out.println("properties" + properties);//properties{james=37, john=100, lucy=100}
         //通过key获取对应的值
         System.out.println(properties.get("james"));//37
+        //tring getProperty(String key)：获取指定属性名的属性值，底层是通过Map的get(Object key)来实现
         System.out.println(properties.getProperty("james"));//null
         //删除
         properties.remove("lucy");

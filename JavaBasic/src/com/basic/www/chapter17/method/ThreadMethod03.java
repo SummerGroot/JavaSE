@@ -15,7 +15,7 @@ public class ThreadMethod03 {
         myDaemonTread.setDaemon(true);
         myDaemonTread.start();
         for (int i = 0; i < 10; i++) {//main主线程
-            System.out.println("宝强不知青" + i);
+            System.out.println("宝强不知情" + i);
             try {
                 Thread.sleep(1000);
             } catch (InterruptedException e) {

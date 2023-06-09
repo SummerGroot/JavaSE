@@ -40,7 +40,7 @@ class ThreadProxy implements Runnable {//可以把Proxy类当作ThreadProxy
     @Override
     public void run() {
         if (target != null) {
-            target.run();//动态绑定（运行乐星Tiger）
+            target.run();//动态绑定（运行类型Tiger）
         }
     }
 

@@ -9,6 +9,7 @@ public class ThreadExit {
     public static void main(String[] args) {
         //启动一个线程t，要求在main线程中去停止线程t。
         T t1 = new T();
+        t1.setName("子线程");
         t1.start();
         //希望mian线程去控制t1线程的终止，必须可以修改loop变量
         //让t1退出run方法，从而终止t1线程->通知方式

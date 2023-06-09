@@ -12,11 +12,10 @@ public class SellTicket {
         new Thread(sellTicket03).start();//第2个线程
         new Thread(sellTicket03).start();//第3个线程
 
-
     }
 }
 
-//实现接口的方式,使用synchronized实现贤臣同步
+//实现接口的方式,使用synchronized实现线程同步
 class SellTicket03 implements Runnable {
     private int ticketNum = 100;//让多个线程共享ticketNum
     private boolean loop = true;//控制run方法变量
