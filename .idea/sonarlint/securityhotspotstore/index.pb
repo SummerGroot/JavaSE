@@ -531,3 +531,7 @@ s
 CJavaBasic/src/com/basic/www/chapter17/synchronized_/SellTicket.java,b\a\ba6c1f7c5364d0f0c8739b72ab93ea28094d0dee
 m
 =JavaBasic/src/com/basic/www/chapter17/threaduse/Thread01.java,d\1\d189abb8fa2c3e960c6d67e663f433ec7264ebeb
+m
+=JavaBasic/src/com/basic/www/chapter17/threaduse/Thread03.java,0\5\05bd990f8bfefcc31c32a701e31f537ac09dc1dc
+k
+;JavaBasic/src/com/basic/www/chapter17/exit_/ThreadExit.java,b\f\bfe82b6b2a115f9088319562cae4f71029e4098f
