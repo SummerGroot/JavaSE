@@ -73,8 +73,6 @@ BJavaBasic/src/com/basic/www/chapter19/buffered_/BufferedCopy_.java,2\6\26c21d2
 LJavaBasic/src/com/basic/www/chapter19/outputstream_/ObjectOutputStream_.java,5\3\53017b5a69559a83350bad36b1f78ea62e9f6c7a
 l
 <JavaBasic/src/com/basic/www/chapter19/outputstream_/Dog.java,8\0\805bb1acd22fb344248416e04ecb334062f94718
-S
-#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 z
 JJavaBasic/src/com/basic/www/chapter19/inputstream_/ObjectInputStream_.java,5\5\55b68dc23177eda63cc955b56c79d4e7e51fc9b7
 o
@@ -83,8 +81,6 @@ r
 BJavaBasic/src/com/basic/www/chapter19/standard/InputAndOutput.java,f\b\fb9fcf9dbcac5f2a3381bd3588c5d0780f3d359d
 |
 LJavaBasic/src/com/basic/www/chapter19/transformation/InputStreamReader_.java,b\2\b2f09d572c46b78e81bbd156e5a90b4e465dd1a7
-]
--.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 v
 FJavaBasic/src/com/basic/www/chapter19/transformation/CodeQuestion.java,d\1\d1396e2e0b260be4fbd47cdd986000e910dce979
 }
@@ -531,7 +527,3 @@ s
 CJavaBasic/src/com/basic/www/chapter17/synchronized_/SellTicket.java,b\a\ba6c1f7c5364d0f0c8739b72ab93ea28094d0dee
 m
 =JavaBasic/src/com/basic/www/chapter17/threaduse/Thread01.java,d\1\d189abb8fa2c3e960c6d67e663f433ec7264ebeb
-m
-=JavaBasic/src/com/basic/www/chapter17/threaduse/Thread03.java,0\5\05bd990f8bfefcc31c32a701e31f537ac09dc1dc
-k
-;JavaBasic/src/com/basic/www/chapter17/exit_/ThreadExit.java,b\f\bfe82b6b2a115f9088319562cae4f71029e4098f

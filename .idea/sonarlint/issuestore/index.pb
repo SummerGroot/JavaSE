@@ -451,10 +451,6 @@ v
 FJavaBasic/src/com/basic/www/chapter19/buffered_/BufferedCopyByte_.java,f\0\f09efa56bb87707351e7294e0e00b0b1dce2b2af
 r
 BJavaBasic/src/com/basic/www/chapter19/buffered_/BufferedCopy_.java,2\6\26c21d2c164401ffbb61c2a867ba2b18c890320a
-S
-#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
-]
--.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 v
 FJavaBasic/src/com/basic/www/chapter19/transformation/CodeQuestion.java,d\1\d1396e2e0b260be4fbd47cdd986000e910dce979
 l
@@ -913,7 +909,3 @@ r
 BJavaBasic/src/com/basic/www/chapter17/synchronized_/DeadLock_.java,b\7\b73cb1bd854a621cd0458a00e119a527613b47f6
 m
 =JavaBasic/src/com/basic/www/chapter17/threaduse/Thread01.java,d\1\d189abb8fa2c3e960c6d67e663f433ec7264ebeb
-m
-=JavaBasic/src/com/basic/www/chapter17/threaduse/Thread03.java,0\5\05bd990f8bfefcc31c32a701e31f537ac09dc1dc
-k
-;JavaBasic/src/com/basic/www/chapter17/exit_/ThreadExit.java,b\f\bfe82b6b2a115f9088319562cae4f71029e4098f
