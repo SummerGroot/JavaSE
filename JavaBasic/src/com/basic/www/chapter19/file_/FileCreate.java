@@ -32,7 +32,7 @@ public class FileCreate {
     //G:\\Notes\\Java\\JavaNotes\\file_\\news02.txt
     @Test
     public void create02(){
-        File parentFile = new File("G:\\Notes\\Java\\JavaNotes\\file_\\");
+        File parentFile = new File("G:\\Notes\\Java\\JavaNotes\\file_\\");//上级目录路径
         String fileName = "news02.txt";
         //这里file对象，在java程序中，只是一个对象
         //只有执行了createNewFile方法，才会真正在磁盘创建该文件
@@ -47,9 +47,8 @@ public class FileCreate {
     //方式3：new File(String parent,String child)//根据父目录+子路径构建
     @Test
     public void create03(){
-        String parentPath = "G:\\Notes\\Java\\JavaNotes\\file_\\";
         String filePath = "news03.txt";
-        File file = new File(parentPath, filePath);
+        File file = new File("G:\\Notes\\Java\\JavaNotes\\file_\\", filePath);
         try {
             file.createNewFile();
             System.out.println("创建成功");

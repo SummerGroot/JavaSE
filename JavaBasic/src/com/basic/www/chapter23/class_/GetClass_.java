@@ -12,14 +12,14 @@ public class GetClass_ {
         //Class.forName()
         String classfullPath = "com.basic.www.chapter23.class_.Car";//通过读取配置文件获取
         Class cls = Class.forName(classfullPath);
-        System.out.println(cls);
+        System.out.println("cls=" + cls);
         //类名.class  多用与参数传递
         Class cls2 = Car.class;
-        System.out.println(cls2);
+        System.out.println("cls2=" + cls2);
         //对象.getClass()
         Car car = new Car();
         Class cls3 = car.getClass();
-        System.out.println(cls3);
+        System.out.println("cls3=" + cls3);
         //通过类加载器获取类的Class对象
 
         //通过类加载器（4种）来获取到类Class对象
@@ -27,7 +27,7 @@ public class GetClass_ {
         ClassLoader classLoader = car.getClass().getClassLoader();
         //2、通过类加载器得到Class对象
         Class cls4 = classLoader.loadClass(classfullPath);
-        System.out.println(cls4);
+        System.out.println("cls4=" + cls4);
         //cls1-4是同一个对象
 
         //基本数据类型得到Class类对象

@@ -1,7 +1,6 @@
 package com.basic.www.chapter19.properties_;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
@@ -18,7 +17,7 @@ public class Properties01 {
         String line = "";
         while ((line = br.readLine()) != null) {
             //System.out.println(line);
-            String[] split = line.split("=");
+            String[] split = line.split("=");//split 字符串切割
             System.out.println(split[0] + "值是：" + split[1]);
         }
         br.close();

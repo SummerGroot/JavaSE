@@ -1,7 +1,6 @@
 package com.basic.www.chapter23.reflection_;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
@@ -30,6 +29,8 @@ public class Reflection01 {
         Class cls = Class.forName(classfullpath);
         //通过cls得到你加载的类 com.basic.www.chapter23.reflection_.question.Cat 的对象实例
         Object o = cls.newInstance();
+        System.out.println("o="+o);
+        //注：newInstance()方法内部实际上嗲用了无参构造器，必须包装无参构造器的存在才可以。
         System.out.println("o的运行类型是=" + o.getClass());
         //通过cls得到加载的类com.basic.www.chapter23.reflection_.question.Cat的methodName"hi"的方法对象
         //即：在反射中，可以把方法视为对象（万物皆对象）
@@ -39,8 +40,8 @@ public class Reflection01 {
         //传统方法对象.方法(),反射机制 方法.invoke(对象);
         //Field，得到Name字段
         //getField不能得到私有的属性
-        Field name = cls.getField("age");
-        System.out.println(name.get(o));//反射成员变量对象.get(对象)
+        Field age = cls.getField("age");
+        System.out.println("age="+age.get(o));//反射成员变量对象.get(对象)
         Constructor constructor = cls.getConstructor();//()中可以指定构造器参数类型，返回的是无参构造器
         System.out.println(constructor);//public com.basic.www.chapter23.reflection_.question.Cat()
         Constructor constructor1 = cls.getConstructor(String.class);//传入的是String.class就是String的class对象

@@ -17,7 +17,7 @@ public class Thread01 {
         }
         2、
         * start0();是本地方法，是JVM调用，底层是C/C++实现
-        * 真正实现多线程的效果，是start0（），而不是run方法
+        * 真正实现多线程的效果，是start0（），而不是run()方法
         private native void start0();
          */
         cat.start();//启动线程---->最终会执行Cat的run方法

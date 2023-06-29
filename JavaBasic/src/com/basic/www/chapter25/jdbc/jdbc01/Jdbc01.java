@@ -38,9 +38,9 @@ public class Jdbc01 {
         Connection connect = driver.connect(url, properties);
 
         //3、执行sql
-        //String sql = "insert into actor values(null,'刘德华','男','1970-11-11','123456789123')";
+        String sql = "insert into actor values(null,'刘德华','男','1970-11-11','123456789123')";
         // String sql = "update actor set name = '周星驰' where id = 1";
-        String sql = "delete  from  actor where id = 1";
+        //String sql = "delete  from  actor where id = 1";
         //用于执行静态SQL语句并返回其生成的结果的对象。
         Statement statement = connect.createStatement();
         int rows = statement.executeUpdate(sql);//如果是dml语句，返回的就是影响的行数

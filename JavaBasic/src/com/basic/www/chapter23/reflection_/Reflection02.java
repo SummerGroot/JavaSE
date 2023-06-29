@@ -1,9 +1,8 @@
 package com.basic.www.chapter23.reflection_;
 
-import com.basic.www.chapter10.main_.Main01;
 import com.basic.www.chapter23.reflection_.question.Cat;
+import org.junit.jupiter.api.Test;
 
-import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
@@ -20,7 +19,7 @@ public class Reflection02 {
         m2();
         m3();
     }
-
+    @Test
     //传统方法调用hi方法
     public static void m1() {
         Cat cat = new Cat();
@@ -31,7 +30,7 @@ public class Reflection02 {
         long end = System.currentTimeMillis();
         System.out.println("传统方法调用hi方法消耗时间为=" + (end - start));//传统方法调用hi方法消耗时间为=2
     }
-
+    @Test
     //反射机制调用hi方法
     public static void m2() throws ClassNotFoundException, InstantiationException, IllegalAccessException, NoSuchMethodException, InvocationTargetException {
         Class cls = Class.forName("com.basic.www.chapter23.reflection_.question.Cat");
@@ -56,7 +55,7 @@ public class Reflection02 {
             hi.invoke(o);
         }
         long end = System.currentTimeMillis();
-        System.out.println("映射优化后调用hi方法消耗时间为=" + (end - start));//映射调用hi方法消耗时间为=14
+        System.out.println("映射优化后调用hi方法消耗时间为=" + (end - start));//映射优化后调用hi方法消耗时间为=14
     }
 
 }

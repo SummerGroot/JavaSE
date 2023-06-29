@@ -23,11 +23,10 @@ public class PrintStream_ {
         }*/
         //因为print底层是write，所有可以直接调用write进行输出
         out.write("夏天来了".getBytes());
-        out.close();
         //修改打印流输出的位置
         //修改到文件中G:\Notes\Java\JavaNotes\file_\test.txt
         System.setOut(new PrintStream("G:\\Notes\\Java\\JavaNotes\\file_\\test.txt"));
         System.out.println("夏天天气开始热了");
-
+        out.close();
     }
 }

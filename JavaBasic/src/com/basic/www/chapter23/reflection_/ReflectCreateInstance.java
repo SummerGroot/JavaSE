@@ -16,7 +16,7 @@ public class ReflectCreateInstance {
         Class<?> usercls = Class.forName("com.basic.www.chapter23.reflection_.User");
         //2、通过public的无参构造器创建实例
         Object o = usercls.newInstance();
-        System.out.println(o);
+        System.out.println(o);//User{age=10, name='summer'}
         //3、通过public的有参构造器创建实例
         /*
         constructor对象就是
@@ -28,14 +28,14 @@ public class ReflectCreateInstance {
         * 2、创建实例，并传入形参*/
         Constructor<?> constructor = usercls.getConstructor(String.class);
         Object o1 = constructor.newInstance("jack");
-        System.out.println(o1);
+        System.out.println(o1);//User{age=10, name='jack'}
         //4、通过private的有参构造器创建实例
         //得到private的构造器对象
         Constructor<?> constructor01 = usercls.getDeclaredConstructor(int.class, String.class);
         //创建实例
         constructor01.setAccessible(true);//爆破(暴力破解)，使用反射可以访问private构造器。
         Object o2 = constructor01.newInstance(99, "张三");
-        System.out.println(o2);
+        System.out.println(o2);//User{age=99, name='张三'}
 
     }
 }

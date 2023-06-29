@@ -1,7 +1,6 @@
 package com.basic.www.chapter19.reader_;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
@@ -27,7 +26,7 @@ public class BufferedReader_ {
             }
             /*
              * 1、bufferedReader.readLine();按行读取文件
-             * 2、当放回null时，表示文件读取完毕*/
+             * 2、当返回null时，表示文件读取完毕*/
         } catch (IOException e) {
             throw new RuntimeException(e);
         } finally {
