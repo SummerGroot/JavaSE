@@ -1,9 +1,0 @@
-
-j
-java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(óöáŞÿÿÿÿÿ8ŞÇÎ³ô0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Â‡¤Ó8àÇÎ³ô0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÈ­Œ8àÇÎ³ô0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(É—‰åÿÿÿÿÿ8àÇÎ³ô0
-T	java:S106"9Replace this use of System.out or System.err by a logger.(ÁçÒ8˜Ò®Öõ0
-\
-java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8àÇÎ³ô0

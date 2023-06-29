@@ -1,8 +1,0 @@
-
-p
-java:S1104"NMake n1 a static final constant or non-public and provide accessors if needed.(¾ç«İùÿÿÿÿ8ïùÊ™÷0
-k
-java:S1104"NMake n2 a static final constant or non-public and provide accessors if needed.(ÊãÒ¬8ïùÊ™÷0
-E
-java:S1444"(Make this "public static n2" field final(ÊãÒ¬8ïùÊ™÷0
-v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„±Å¯8óùÊ™÷0

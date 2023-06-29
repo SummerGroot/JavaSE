@@ -1,17 +1,0 @@
-
-l
-java:S1104%"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8¨æéÃ÷0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(£©–ìÿÿÿÿÿ8¬æéÃ÷0
-N
-java:S3011",This accessibility bypass should be removed.(à÷Âùÿÿÿÿ8¬æéÃ÷0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ú“Üİ8­æéÃ÷0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(£›„«úÿÿÿÿ8­æéÃ÷0
-H
-java:S3011",This accessibility update should be removed.(ºÓüE8òêÃ÷0
-I
-java:S3011",This accessibility bypass should be removed.(‘õñ¥8­æéÃ÷0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ú“Üİ8­æéÃ÷0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(½ï½èÿÿÿÿÿ8ÂïùÃ÷0
-Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Á°ıÁşÿÿÿÿ8ğ˜ıÃ÷0
-£
-java:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(èêñŞùÿÿÿÿ8®æéÃ÷0

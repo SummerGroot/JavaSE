@@ -1,24 +1,0 @@
-
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(úÿ»ï8€‰œŠó0
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–«»–üÿÿÿÿ8€‰œŠó0
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÓÆ§±ùÿÿÿÿ8€‰œŠó0
-n	java:S101$"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œÄ›¨ùÿÿÿÿ8€‰œŠó0
-n	java:S101:"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ùé˜Èùÿÿÿÿ8€‰œŠó0
-T
-java:S1610"7Convert the abstract class "Reader_" into an interface.(úÿ»ï8ƒ‰œŠó0
->
-java:S1116"Remove this empty statement.(œúºÁúÿÿÿÿ8¶ˆÒŠó0
-9
-java:S1116"Remove this empty statement.(¦€ØŸ8¶ˆÒŠó0
-W	java:S125"<This block of commented-out lines of code should be removed.(¬ùæ8ÖçÑŠó0
-W
-java:S1161":Add the "@Override" annotation above this method signature(»ôÎ“8·ˆÒŠó0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(×Øîó8…‰œŠó0
-X	java:S125"<This block of commented-out lines of code should be removed.(Ï½Ø³8¸ˆÒŠó0
-W
-java:S1161":Add the "@Override" annotation above this method signature(²ŠüË8¸ˆÒŠó0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(®á‡8†‰œŠó0
-W
-java:S1161*":Add the "@Override" annotation above this method signature(»ôÎ“8¹ˆÒŠó0
-H
-java:S1128"+Remove this unused import 'java.io.Reader'.(µû¨é8»ˆÒŠó0

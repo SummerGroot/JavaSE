@@ -1,11 +1,0 @@
-
-R
-java:S1854"5Remove this useless assignment to local variable "b".(ÌÖè€8ñïßš÷0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾“¾Šüÿÿÿÿ8ÁÅ³š÷0
-X	java:S125"<This block of commented-out lines of code should be removed.(İşª¤8á¢¼š÷0
-C
-java:S1481"&Remove this unused "b" local variable.(ÌÖè€8óïßš÷0
-:
-java:S1118#"Hide this public constructor.(¹Ìãó8ÀÅ³š÷0
-T	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÀÙ&8ïªµš÷0
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(¸±½Ãûÿÿÿÿ8»´Áš÷0
