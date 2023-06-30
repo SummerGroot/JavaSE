@@ -1,6 +1,6 @@
 package com.basic.www.chapter25.jdbc.jdbc01;
 
-import com.mysql.jdbc.Driver;
+import com.mysql.cj.jdbc.Driver;
 
 import java.sql.Connection;
 import java.sql.SQLException;

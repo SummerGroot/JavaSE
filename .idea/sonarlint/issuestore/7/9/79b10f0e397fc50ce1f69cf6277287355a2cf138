@@ -1,0 +1,33 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡§Ÿ¤8ç²õ´1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰å·á8ç²õ´1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(àïƒÊüÿÿÿÿ8ç²õ´1
+j
+java:S2095'"HUse try-with-resources or close this "Connection" in a "finally" clause.(¹»­èúÿÿÿÿ8åÊú´1
+q
+java:S2095-"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8äÊú´1
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Íä¼œüÿÿÿÿ8äÊú´1
+
+java:S1186J"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğÌ–Û8ªŠ€µ1
+
+java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(šæ»š8ªŠ€µ1
+£
+java:S1186S"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(âÉèùÿÿÿÿ8ªŠ€µ1
+W
+java:S1854"":Remove this useless assignment to local variable "driver".(Ãª¥8é²õ´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ä±›ãıÿÿÿÿ8ë²õ´1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(À©ñ8ë²õ´1
+H
+java:S1481""+Remove this unused "driver" local variable.(Ãª¥8ì²õ´1
+X	java:S125%"<This block of commented-out lines of code should be removed.(‘É¬Ú8ì²õ´1
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(úÃºÖşÿÿÿÿ8í²õ´1
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(—÷ğŠ8í²õ´1
+j	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¼ºÅ8í²õ´1
+T
+java:S1854E"7Remove this useless assignment to local variable "sql".(ë¹Ò¾8§Ãş´1
+E
+java:S1481E"(Remove this unused "sql" local variable.(ë¹Ò¾8§Ãş´1
+j	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÌ–Û8¯Š€µ1
+j	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šæ»š8¯Š€µ1
+o	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÉèùÿÿÿÿ8¯Š€µ1

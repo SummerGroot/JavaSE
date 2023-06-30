@@ -1,0 +1,45 @@
+
+k
+java:S1192""IDefine a constant instead of duplicating this literal "password" 3 times.(’æ…şÿÿÿÿ8«Ï—²1
+i
+java:S1192""GDefine a constant instead of duplicating this literal "123456" 4 times.(’æ…şÿÿÿÿ8«Ï—²1
+‡
+java:S1192"eDefine a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/fxy_db02" 4 times.(Éºÿÿÿÿÿÿ8«Ï—²1
+j
+java:S2095E"HUse try-with-resources or close this "Connection" in a "finally" clause.(¹»­èúÿÿÿÿ8°Ï—²1
+j
+java:S2095`"HUse try-with-resources or close this "Connection" in a "finally" clause.(¹»­èúÿÿÿÿ8°Ï—²1
+o
+java:S2095m"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Íä¼œüÿÿÿÿ8Şñ˜²1
+j
+java:S2095v"HUse try-with-resources or close this "Connection" in a "finally" clause.(¹»­èúÿÿÿÿ8µš²1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(¬ƒÃôúÿÿÿÿ8²Ï—²1
+J
+java:S4925+"-Remove this "Class.forName()", it is useless.(ßº®„8³Ï—²1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(îéáĞùÿÿÿÿ8³Ï—²1
+J
+java:S4925<"-Remove this "Class.forName()", it is useless.(ßº®„8³Ï—²1
+X
+java:S6437E"6Revoke and change this password, as it is compromised.(¹»­èúÿÿÿÿ8´Ï—²1
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(ıÑÃ8´Ï—²1
+\
+java:S1854[":Remove this useless assignment to local variable "aClass".(Ÿô‰Õúÿÿÿÿ8´Ï—²1
+›
+java:S1130M"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(Öçóıÿÿÿÿ8´Ï—²1
+›
+java:S1130M"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(Öçóıÿÿÿÿ8´Ï—²1
+]	java:S125S"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ8µÏ—²1
+M
+java:S1481["+Remove this unused "aClass" local variable.(Ÿô‰Õúÿÿÿÿ8µÏ—²1
+X
+java:S6437`"6Revoke and change this password, as it is compromised.(¹»­èúÿÿÿÿ8µÏ—²1
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(œÓçü8µÏ—²1
+X	java:S125c"<This block of commented-out lines of code should be removed.(ùñ”Œ8µÏ—²1
+W
+java:S1854q":Remove this useless assignment to local variable "driver".(Ãª¥8­²Ÿ²1
+•
+java:S1130j"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(«Í@8­²Ÿ²1
+H
+java:S1481q"+Remove this unused "driver" local variable.(Ãª¥8®²Ÿ²1
+X	java:S125t"<This block of commented-out lines of code should be removed.(‘É¬Ú8®²Ÿ²1
+U	java:S106w"9Replace this use of System.out or System.err by a logger.(¾ó…‰8¶Ï—²1

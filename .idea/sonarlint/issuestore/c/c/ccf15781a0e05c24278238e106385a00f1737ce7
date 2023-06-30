@@ -1,0 +1,10 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(Òüà‹ÿÿÿÿÿ8ôíĞ­1
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(×Êá ùÿÿÿÿ8‡îĞ­1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚à8’îĞ­1
+]	java:S125"<This block of commented-out lines of code should be removed.(á•±ÿøÿÿÿÿ8’îĞ­1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±í±8“îĞ­1
+T	java:S106""9Replace this use of System.out or System.err by a logger.(Õ„¥L8•îĞ­1
+X	java:S125*"<This block of commented-out lines of code should be removed.(í©Çâ8šîĞ­1

@@ -1,0 +1,19 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü»Åøÿÿÿÿ8ü€´1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰å·á8ü€´1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬³Ã8ü€´1
+o
+java:S2095""MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Íä¼œüÿÿÿÿ8¦ü€´1
+j
+java:S2095+"HUse try-with-resources or close this "Connection" in a "finally" clause.(¹»­èúÿÿÿÿ8¦ü€´1
+i
+java:S2095."GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8¦ü€´1
+W
+java:S1854&":Remove this useless assignment to local variable "driver".(Ãª¥8§ü€´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ä±›ãıÿÿÿÿ8«ü€´1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(À©ñ8«ü€´1
+H
+java:S1481&"+Remove this unused "driver" local variable.(Ãª¥8ªü€´1
+X	java:S125)"<This block of commented-out lines of code should be removed.(‘É¬Ú8ªü€´1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(úÃºÖşÿÿÿÿ8«š‚´1
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(—÷ğŠ8¯İ‰´1
