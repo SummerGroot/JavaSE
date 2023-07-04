@@ -1,0 +1,9 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œ´ß®øÿÿÿÿ8Ò”ÑÜ1
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Íä¼œüÿÿÿÿ8Ú”ÑÜ1
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ†…Z8Û”ÑÜ1
+]	java:S1252"<This block of commented-out lines of code should be removed.(óàÚåüÿÿÿÿ8ß”ÑÜ1
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(àáŒœşÿÿÿÿ8ß”ÑÜ1
+j	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ôíó8ß”ÑÜ1
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(ˆãªå8™òÜ1
