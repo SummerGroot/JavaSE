@@ -1,4 +1,4 @@
-package com.basic.www.chapter25.jdbcutils_;
+package com.basic.www.chapter25.datasource;
 
 import org.junit.jupiter.api.Test;
 
@@ -6,40 +6,16 @@ import java.sql.*;
 
 /**
  * @Auther : Summer
- * @Classname JdbcUtils_Use
+ * @Classname JDBCUtilsByDruid_Use
  * @Description
- * @Date 2023/6/29 20:25
+ * @Date 2023/7/6 14:57
  * @Created by Summer
  * @Version: 1.0
  */
-public class JDBCUtils_Use {
-    @Test
-    public void testDML() {
-        // insert update delete
-        //1、得到连接
-        Connection connection = null;
-        //2、组织一个sql 语句
-        String sql = "update actor set name = ? where id = ?";
-        PreparedStatement preparedStatement = null;
-        //创建ProparedStatement
-        try {
-            connection = JDBC_Utils.getConnection();
-            preparedStatement = connection.prepareStatement(sql);
-            //给占位符赋值
-            preparedStatement.setString(1, "周星驰");
-            preparedStatement.setInt(2, 1);
-            //执行
-            preparedStatement.executeUpdate();
-        } catch (SQLException e) {
-            throw new RuntimeException(e);
-        } finally {
-            //关闭资源
-            JDBC_Utils.close(null, preparedStatement, connection);
-        }
-    }
+public class JDBCUtilsByDruid_Use {
     @Test
     public void testSelect() {
-        System.out.println("使用JDBC方式完成");
+        System.out.println("使用Druid方式完成");
         //1、得到连接
         Connection connection = null;
         //2、组织一个sql
@@ -48,10 +24,10 @@ public class JDBCUtils_Use {
         ResultSet set = null;
         //3、创建PreparedStatement对象
         try {
-            connection = JDBC_Utils.getConnection();
+            connection = JDBCUtilsByDruid.getConnection();
             preparedStatement = connection.prepareStatement(sql);
             preparedStatement.setInt(1, 5);
-            //执行
+            //执行，得到结果集
             set = preparedStatement.executeQuery();
             //遍历该结果集
             while (set.next()) {
@@ -66,7 +42,7 @@ public class JDBCUtils_Use {
             throw new RuntimeException(e);
         } finally {
             //关闭资源
-            JDBC_Utils.close(set, preparedStatement, connection);
+            JDBCUtilsByDruid.close(set, preparedStatement, connection);
         }
     }
 }

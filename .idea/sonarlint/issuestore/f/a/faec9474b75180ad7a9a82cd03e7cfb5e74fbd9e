@@ -1,0 +1,19 @@
+
+E
+java:S1604"(Make this anonymous inner class a lambda(ÃÔÁ³8‹”ú’1
+J
+java:S1604#"(Make this anonymous inner class a lambda(ÚŞù‡ûÿÿÿÿ8‹”ú’1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôé×á8Œ”ú’1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§„û’8´”ú’1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‹ñõ’8µ”ú’1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(†Ñ›µ8µ”ú’1
+[
+java:S18540"9Remove this useless assignment to local variable "com03".(Ğ’æşÿÿÿÿ8¶”ú’1
+T	java:S106*"9Replace this use of System.out or System.err by a logger.(¶ñî	8¸”ú’1
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(¯üŒ¤8¸”ú’1
+_
+java:S1612,"=Replace this lambda with method reference 'Integer::compare'.(‡÷‚øÿÿÿÿ8»”ú’1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(áê²“8¼”ú’1
+L
+java:S14810"*Remove this unused "com03" local variable.(Ğ’æşÿÿÿÿ8¼”ú’1
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(à°ª·8¼”ú’1
