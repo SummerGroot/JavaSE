@@ -30,6 +30,7 @@ public class Lambda02 {
     * 如果Lambda体只有一条执行语句(可能是return) 省略这一对{} 和return
     * */
     //Lambda本质：作为接口的实例
+    //如果一个接口中，只声明了一个抽象方法，则此接口就称为函数式接口
     @Test
     public void test01() {
         //格式1：无参，无返回值

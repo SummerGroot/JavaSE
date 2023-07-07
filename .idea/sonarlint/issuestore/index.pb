@@ -955,7 +955,3 @@ v
 FJavaBasic/src/com/basic/www/chapter25/datasource/JDBCUtilsByDruid.java,f\c\fc68e6962ee3b072eed8405f22e7f8ed58cac606
 s
 CJavaBasic/src/com/basic/www/chapter13/arrays_/ArraysSortCustom.java,2\6\26624c51f724f73e43b52cb6fd86089df57ef18e
-m
-=JavaBasic/src/com/basic/www/chatper28/lambdaExp/Lambda01.java,f\a\faec9474b75180ad7a9a82cd03e7cfb5e74fbd9e
-m
-=JavaBasic/src/com/basic/www/chatper28/lambdaExp/Lambda02.java,c\9\c9650afcd1a31b778281886f2c0f30f189c0a6f9
