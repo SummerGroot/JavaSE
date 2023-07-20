@@ -1,4 +1,4 @@
-package com.basic.www.chatper28.lambdaExp;
+package com.basic.www.chatper28_java8.lambdaExp;
 
 import org.junit.jupiter.api.Test;
 

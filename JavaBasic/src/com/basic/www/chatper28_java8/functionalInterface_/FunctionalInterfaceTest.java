@@ -1,4 +1,4 @@
-package com.basic.www.chatper28.functionalInterface_;
+package com.basic.www.chatper28_java8.functionalInterface_;
 
 import org.junit.jupiter.api.Test;
 
@@ -51,7 +51,7 @@ public class FunctionalInterfaceTest {
         System.out.println(filterStrs02);
     }
 
-    //根据给定的规则去过滤集合中的字符串。
+    //根据给定的规则去过滤集合中的字符串。此规则由Predicate的方法决定
     public List<String> filterString(List<String> list, Predicate<String> pre) {
         ArrayList<String> filterList = new ArrayList<>();
         for (String s : list) {

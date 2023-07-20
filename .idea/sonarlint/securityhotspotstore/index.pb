@@ -577,7 +577,13 @@ m
 =JavaBasic/src/com/basic/www/chatper28/lambdaExp/Lambda01.java,f\a\faec9474b75180ad7a9a82cd03e7cfb5e74fbd9e
 m
 =JavaBasic/src/com/basic/www/chatper28/lambdaExp/Lambda02.java,c\9\c9650afcd1a31b778281886f2c0f30f189c0a6f9
-{
-KJavaBasic/src/com/basic/www/chatper28/functionalInterface_/MyInterface.java,6\0\60d3b797afa96c8640057a5a5cce3f0dc8c56be1
-á
-WJavaBasic/src/com/basic/www/chatper28/functionalInterface_/FunctionalInterfaceTest.java,0\9\0967e85c8a4543e53a93d1790ac307b227253cd6
+Å
+QJavaBasic/src/com/basic/www/chatper28_java8/functionalInterface_/MyInterface.java,1\0\10f591d56de06340cfaf832d3785e2c474bd0b64
+s
+CJavaBasic/src/com/basic/www/chatper28_java8/lambdaExp/Lambda01.java,2\5\25f7bc59846f977fef51ccd85099b1bdcbffb4dc
+s
+CJavaBasic/src/com/basic/www/chatper28_java8/lambdaExp/Lambda02.java,3\6\36010207e54e0aeedeb8f69c4ca4ccba2a48180b
+ç
+]JavaBasic/src/com/basic/www/chatper28_java8/functionalInterface_/FunctionalInterfaceTest.java,9\3\93aaef7a487c931997ff395157c12a39900378fa
+p
+@JavaBasic/src/com/basic/www/chatper28_java8/method/Employee.java,d\b\dbc81031f9199c354e7c1c8374a978ea5e38bc76

@@ -1,4 +1,4 @@
-package com.basic.www.chatper28.functionalInterface_;
+package com.basic.www.chatper28_java8.functionalInterface_;
 
 /**
  * @Auther : Summer
